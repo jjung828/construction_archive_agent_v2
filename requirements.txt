@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+requests
+beautifulsoup4
+feedparser
+sqlalchemy
+apscheduler
+streamlit
+rapidfuzz
+openai
+lxml
+playwright
