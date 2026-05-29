@@ -36,8 +36,8 @@ def main():
             (MAX_SUMMARY_CHARS, MAX_SUMMARY_CHARS),
         )
 
-    conn.execute("VACUUM")
     conn.commit()
+    conn.execute("VACUUM")
     conn.close()
 
     print("Archive compacted.")
