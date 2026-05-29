@@ -37,7 +37,6 @@ def main():
         )
 
     conn.commit()
-    conn.execute("VACUUM")
     conn.close()
 
     print("Archive compacted.")
