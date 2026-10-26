@@ -1,5 +1,765 @@
 # Daily Construction Issues - 2026-10-26
 
+## 중흥토건 - [김승원 칼럼] 중흥그룹 100억, 지역에 건물이 아니라 ‘사람’을 짓는다 - 토요경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 중흥토건 관련 유사 기사 1건이 수집됨. 대표 기사: [김승원 칼럼] 중흥그룹 100억, 지역에 건물이 아니라 ‘사람’을 짓는다 - 토요경제
+
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fb0hhM3BjdkF4Rm5rMGhMMTllWjdPdlBkaS1iRFFwc1A0RzI3RFdYbmhCUFEzR0w2Q2hUTW9Ed29ZWjJOb2pPTFBlWHZ1VENtVkFHMXFqT0IxNXY4aUxVetIBb0FVX3lxTE0ydEY1U1U2Y1VVTVNUZFJzTmFlVG5ERUxGSmljdVR6Q2ZMMnk2UVlfLW5iYzhaSU1CTC1vLWd1eldPblU4eFdUV3NlTFJyYkY1Rnd6UHY3Znp1T3d4dVpTTkJWNmV2VXBfUHNxbmZjYw?oc=5
+
+## 대방건설 - 청약홈 분양정보 분양 30건 접수기간·당첨발표·계약기간｜2026년 10월 27일 내집마련 일정 한눈에 - 민심뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: 청약홈 분양정보 분양 30건 접수기간·당첨발표·계약기간｜2026년 10월 27일 내집마련 일정 한눈에 - 민심뉴스
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1sSWdJUDktdHY4UkgyRnZMWTlfUUpEQW5VZHVUM25RczczRW9OQW9tbHRjdGFXMDdZdFRVd1dQQlN3WkczLUl0X2tRZ0ZUc2Y1bk80c09HX01ra1hNbXgtTG5jd1pkY2o2SUdCNg?oc=5
+
+## 대방건설 - [포토]김민선,빗속의 임팩트 - m.edaily.co.kr
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: [포토]김민선,빗속의 임팩트 - m.edaily.co.kr
+
+https://news.google.com/rss/articles/CBMigAFBVV95cUxQU040b1FCRHdiQlEzTnF5SmhBZVVHeFVSeHk0ZEtqUjRlTG05VHc5cXY3UVdoU1dKZEoydDRnbktEMF9ucXdEb244TUJZcHVrRUctVjhuMWh6VkpwbXUteDVDVTRaY3Y3ejhHUUMxMXNZMnVnaXcxQ0UzUlh4anRVTw?oc=5
+
+## 쌍용건설 - GTX-C 실착공 ‘순항’…국토부, 토지보상 착수 - MTN 머니투데이방송
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 쌍용건설 관련 유사 기사 1건이 수집됨. 대표 기사: GTX-C 실착공 ‘순항’…국토부, 토지보상 착수 - MTN 머니투데이방송
+
+https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4Rnh6Q2FCcTVHdnNOLUdjVTFCSmJSdy0tVVpuSVNsS2tTWFc3MHlaa2J2dXhIdTJ1Q1ZDMkV4RXBBUzdlWTMxdXJPa1NMYi1TVWdjQkRscDFSQ29oUVZZ?oc=5
+
+## 동부건설 - 최상층 스카이 커뮤니티 갖춘 '남춘천 센트레빌' 10월 공급 예정 - AP신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: 최상층 스카이 커뮤니티 갖춘 '남춘천 센트레빌' 10월 공급 예정 - AP신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QdDVYbUp2a3M1RjFaTXo5T0NlMktmUUxGWVhCd09LOUd3SXhOTnJtZll2bkhQQWpSaUR4RndhRkFsc0VXakl5eXllZlZJYi1feDRUaHBJR3hsd0thMjJxMWR3cTJtOGFU0gFsQVVfeXFMTTFIMWxoajFSNU1OU0xfNDZtZmpjcmFzNVREX3YzUWxTbUpJd1JkdTdkdWRUUnh2S245UWtrREgyVEtDa1drYWRtV0d6ZjlDdWJKekNZN1Jkem1lNkxQYmx4bE1ZMFNlYk9nQUph?oc=5
+
+## 동부건설 - 차별화 커뮤니티 시설 단지 ‘증가’···최근 주거 트렌드 변화 ‘뚜렷’ - 이뉴스투데이
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: 차별화 커뮤니티 시설 단지 ‘증가’···최근 주거 트렌드 변화 ‘뚜렷’ - 이뉴스투데이
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTE9iNkVRUEgtVklhYlpab1VnX19fdUdXa1dkdzBlcWEwb21kdGJmN0dDYV94RGZjWXVaVFFidlEtRzEzUlk2SFpmX1RIeEh3ei14S3liSmc1MjBVLWhxT2tOOFc4ZEtMV005cEpnUE00MlhLYno30gF0QVVfeXFMT2I2RVFQSC1WSWFiWlpvVWdfX191R1drV2R3MGVxYTBvbWR0YmY3R0NhX3hEZmNZdVpUUWJ2US1HMTNSWTZIWmZfVEh4SHd6LXhLeWJKZzUyMFUtaHFPa044VzhkS0xXTTlwSmdQTTQyWEtiejc?oc=5
+
+## 금호건설 - LH, 쌍문역서측·연신내 도심복합사업 보상 착수 - 국토매일
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: LH, 쌍문역서측·연신내 도심복합사업 보상 착수 - 국토매일
+
+https://news.google.com/rss/articles/CBMiREFVX3lxTE9vNVNaQnFyMklrSVY3ZDY3NDZFblgxaHdJV0pzaEpfYVotZ1hLTVh3ZTlyRHFqRU80T010MU41UENNS1Rx?oc=5
+
+## 금호건설 - LH, 쌍문역 서측·연신내 지구 협의보상 개시...도심복합사업 탄력 - 우먼타임스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: LH, 쌍문역 서측·연신내 지구 협의보상 개시...도심복합사업 탄력 - 우먼타임스
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1GVk1xZ0kxN2dGV2Y3bFJ1aFdFSTE1T2lCdDVfQ25XYTFYZ1E1OUpvazZVUU00M2NTYjkzNGdrLWstcUd2RHU4NThKaExoOEtHeEZmcEZxMkZSd2g1UXpJbHVyaWhKeGo2S0d2aUw1dlfSAXRBVV95cUxOeWdnZVU3Ujl0aGwyU0J5TzVjTkhyMGpYQjY3UWJNcDRydDI1YkdWVkJZQTNlZkNlT3ZJNFRkejVZNU1PNE1MaGI0VVl5bm5ZRlROQU04Zm93eGVpQ1pjZVAzZXBoc19OYmRFSGJSazBpbDFESw?oc=5
+
+## 금호건설 - LH, 서울 도심 주택공급 확대 속도…쌍문역 서측·연신내 보상 착수 - 소셜밸류
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: LH, 서울 도심 주택공급 확대 속도…쌍문역 서측·연신내 보상 착수 - 소셜밸류
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZVFDZktpeURxNEQ5d0dfU0l3M0FPWWxvSHRfLUMxMEg3cWQxQmdKLUQ4bDBvNklGNXE2NjFZcVpKVGNrc2hQN0V5eXprblRQcE9YRWJ4dFFJc3lndEJuSEdCc9IBbEFVX3lxTFBMZlBuMkRsN2RBSUdPYTI0MjV4bElsNjZjWFZvM2lPcktTSWg0b3ZzMmdpY1pERnFtSEZ4RnZSZnRqWG5wMmxFV1dJclVSSXA2cGdaLTJJYzJocW1pdWpsV3FsaDZSNVRTUG9peA?oc=5
+
+## 금호건설 - 금오산·형곡근린공원 인접한 '형곡 센트럴 아테라' 11월 분양 - 지피코리아
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 금오산·형곡근린공원 인접한 '형곡 센트럴 아테라' 11월 분양 - 지피코리아
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZUk1aWmdXT2NkLXJsMlFkcC1IRXI4X2tYc2RzQ2lwc24yTTNhRTlNYTVNYXB1WEpnVDJJd25wbjFLdW8zdnNkZXpyc2Rueno5U1RlT3ZvZ1JkLTFaUnBxV21GcVhFdl95UnFnMGt30gFuQVVfeXFMTVlSTVpaZ1dPY2QtcmwyUWRwLUhFcjhfa1hzZHNDaXBzbjJNM2FFOU1hNU1hcHVYSmdUMkl3bnBuMUt1bzN2c2RlenJzZG56ejlTVGVPdm9nUmQtMVpScHFXbUZxWEV2X3lScWcwa3c?oc=5
+
+## KCC건설 - [여성논단] 출산율을 내려놓은 인구정책, 성평등은 어디에 있는가 - 여성신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: KCC건설 관련 유사 기사 1건이 수집됨. 대표 기사: [여성논단] 출산율을 내려놓은 인구정책, 성평등은 어디에 있는가 - 여성신문
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE5jelBrMzF2bmg2THNsRlJ5TmhUbGU4ODdXd3d0SllTdC1GUFFqUUcxWXBzbHhmTEVCcmZrVGx4dXRIenJEb3Q0UktmbTN5Q1lMUjBkbEFkM0M3Um5IWnZfVUZ1Y3FJWmJpSWJXZHpJZi1kekXSAXNBVV95cUxOY3pQazMxdm5oNkxzbEZSeU5oVGxlODg3V3d3dEpZU3QtRlBRalFHMVlwc2x4ZkxFQnJma1RseHV0SHpyRG90NFJLZm0zeUNZTFIwZGxBZDNDN1JuSFp2X1VGdWNxSVpiaUliV2R6SWYtZHpF?oc=5
+
+## 태영건설 - [공시] 에이전트AI '투자경고', OCI·뉴로핏 '공매도 금지' 등...31건 - 뉴스티앤티
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 태영건설 관련 유사 기사 1건이 수집됨. 대표 기사: [공시] 에이전트AI '투자경고', OCI·뉴로핏 '공매도 금지' 등...31건 - 뉴스티앤티
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE04UlpqSTFCaEI2QW5Db1pRZW0zRDVxaDJHMmZxclVpZndGTThGUl9ybEM2Z0F2aTJES0tZT1BHTU5nRzhiMzMzcUZpYkE5LXZmUXJVYzJrRWVqaW5keUw1RHZjSFhhWE5vRlE?oc=5
+
+## 태영건설 - GTX-C 실착공 ‘순항’…국토부, 토지보상 착수 - MTN 머니투데이방송
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 태영건설 관련 유사 기사 1건이 수집됨. 대표 기사: GTX-C 실착공 ‘순항’…국토부, 토지보상 착수 - MTN 머니투데이방송
+
+https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4Rnh6Q2FCcTVHdnNOLUdjVTFCSmJSdy0tVVpuSVNsS2tTWFc3MHlaa2J2dXhIdTJ1Q1ZDMkV4RXBBUzdlWTMxdXJPa1NMYi1TVWdjQkRscDFSQ29oUVZZ?oc=5
+
+## 코오롱글로벌 - 코오롱글로벌, 973억원 규모 공급계약 체결 - 데이터투자
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 코오롱글로벌, 973억원 규모 공급계약 체결 - 데이터투자
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE1nUWVnVWE2NjZzRWgtYkpPYThwSlJhYXYxVG5ralpzSFk2RWJkejJ2SFF6OHVQNTh2UDBrQVUzQWFPbjA5bExid19EakxHTFMwdUlpZ0VJQjNTSjYycDFOWExlR1pUOVo4NVAtT3JHWnlWcFk?oc=5
+
+## 코오롱글로벌 - 코오롱글로벌, 973억7079만원 규모 강북구 번동 2-1구역 가로주택정비사업 수주 - 디지털투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 코오롱글로벌, 973억7079만원 규모 강북구 번동 2-1구역 가로주택정비사업 수주 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTFBPamQ1Ty12dWg5MDV6VlRDaC1vd1Jyd0ZscENUWDVlOTVNZ1M3ODVOSVJwZzUwSUFwaDBNVHBoM3ZzRmt6SHlnTHBaVFpFMUk2MTNCVC1yWWdMUi1XLUdoS0w0eEpFelpsNlVkMDR0eXlDTWlTS1lxR1lQYw?oc=5
+
+## 코오롱글로벌 - 코오롱글로벌, 1384억 규모 공사 수주 - 대한전문건설신문
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 코오롱글로벌, 1384억 규모 공사 수주 - 대한전문건설신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRWhDcnNlM3VaNy1acm1GeUlOdkpwWldESGpNLXVSY3RMMTg5cXQ3NVo0aXNYaUdJMll6TmxXd3hsbTBiMW41TkhxWERfU1BvM0plZ0ExUTExaW9Oa2wzZnlCZTlVSGF30gFsQVVfeXFMTjk5ckZWemswMGtiOFEyVGZPX1dGQTJ5OG5qaEhyd2NrV0d0Q1pJWGFSMlM2TWxIYWdncGxrWlJxUXRkc0xWb3hBRlREVWxuNHRfV2d3Nm1WbHJfdjJRS2hYWmZ4b21aSGkxSjR0?oc=5
+
+## 코오롱글로벌 - [특징주] 코오롱글로벌, 금호타이어 함평공장 1384억원 수주 - 뉴스티앤티
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: [특징주] 코오롱글로벌, 금호타이어 함평공장 1384억원 수주 - 뉴스티앤티
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE14cGtRUWlsM3dQWUZiWXYtc1pmS3ljV0NUUmVLTVNNRzRjVW4wTXh3Tkx0ZnpZcGJxRzd6SzFOV3hZZS1Ub0tYcllDam55Tjd0MjE2VUtwTF9WdXBtbmtTb2E5OHJ5NzdKdEE?oc=5
+
+## 제일건설 - [도시정비시장 풍향계] 대우, ‘1.2조’ 신월시영 재건축 노리나…1차 입찰 단독 참여 - 대한경제
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 제일건설 관련 유사 기사 1건이 수집됨. 대표 기사: [도시정비시장 풍향계] 대우, ‘1.2조’ 신월시영 재건축 노리나…1차 입찰 단독 참여 - 대한경제
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTFBhTnVNU3BCcm5ZUmtSUmZCeHhfLWJ0T2hJYTFoUFhvZ2lfSGNCdVN3a1VBUDBQUjkxaDJpNlNKWGF1RW43emUyLXAxZE5pZ3VDajhDTU9EbDJWT193Wnd2Q2dtdG1XNjJ6UWhSZEdnMEVERF94?oc=5
+
+## 제일건설 - 대우건설, 1.3조 신월시영 재건축 단독 응찰…현장설명회 참석 4곳 중 유일 - 녹색경제신문
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 제일건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설, 1.3조 신월시영 재건축 단독 응찰…현장설명회 참석 4곳 중 유일 - 녹색경제신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5bU05UGFkU2hOVnFYbThIVkZBMmVVTjdnNVFpQ01fNWR2VXlOc0tzZHRTODI0ZUhzV2ctak50czc0THluVmFfUlItU2hDWkkwRGlTVnNKRWxxSzl5cEE4YkFjci1JaEhC?oc=5
+
+## 계룡건설산업 - 영업정지 집행 미뤄진 SK에코플랜트…송도선 테라스 붕괴·침수 - 메가경제
+- Category: 해외사업
+- Sentiment: 부정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 계룡건설산업 관련 유사 기사 1건이 수집됨. 대표 기사: 영업정지 집행 미뤄진 SK에코플랜트…송도선 테라스 붕괴·침수 - 메가경제
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE9BNkxNNHNRQXhiNjhLMHd1ekR3WFhLNl9jUUpSMWp1RUFyVDZOUjBzVkNySS1TQUM3QWRES2czTnlOTzFDUG9UR0RXTGp1MUhTSWpYQXhfNU9lNHd3UGhDUFEtSXhPbVJVX3QxeE1Rc1FqUdIBckFVX3lxTE9BNkxNNHNRQXhiNjhLMHd1ekR3WFhLNl9jUUpSMWp1RUFyVDZOUjBzVkNySS1TQUM3QWRES2czTnlOTzFDUG9UR0RXTGp1MUhTSWpYQXhfNU9lNHd3UGhDUFEtSXhPbVJVX3QxeE1Rc1FqUQ?oc=5
+
+## 계룡건설산업 - 계룡건설산업, 화성 능동 공공지원민간임대주택 현장서 협력업체 근로자 1명 사망 - 디지털투데이
+- Category: 안전사고
+- Sentiment: 부정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 계룡건설산업 관련 유사 기사 1건이 수집됨. 대표 기사: 계룡건설산업, 화성 능동 공공지원민간임대주택 현장서 협력업체 근로자 1명 사망 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5MTEZjR1luWFJ6Q3JlVmhsNEFtdUJLRjhKSm02cVdSNmQ0R0pYU2dxSUNKYnNtcmw1V0tfc3M0OW5fOUpBbU14aWFzdmtwbkNiTTBPNkhlekVzWUwyNTV1U2lUMkVoanRybmV3OWpNMnNEX0VlYjdOc0Zacw?oc=5
+
+## 계룡건설산업 - 계룡건설, 화성 능동 임대주택 현장서 협력사 근로자 숨져 - CBC뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 계룡건설산업 관련 유사 기사 1건이 수집됨. 대표 기사: 계룡건설, 화성 능동 임대주택 현장서 협력사 근로자 숨져 - CBC뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JakpTX3FmQlJqNjZhMnBZQVlmZU1ZcWt0T2t2VHhhaHlad2szR1NKdVFVX3RIeWJaeGZ0eFQtSFFsb3ZNRVRCWEFoclltaDVHNjJFeXFmWkp4M2NaTmRHcFhlRjdJbjlr?oc=5
+
+## 두산에너빌리티 - 부산광역본부, ‘2026년 제2차 부·울·경 ESG 협의회’ 개최 - 안전정보
+- Category: 안전사고
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 부산광역본부, ‘2026년 제2차 부·울·경 ESG 협의회’ 개최 - 안전정보
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTE9HbVBNWXhpdzczTklKbVNtdWV6aXZQOU11SlEyZXBNYTl5bnltYjNnUkdWZUhVbVpydE94ODR5N3lRSzFINHJ0SHJEU0RoVzU1X1Z1cHV1TDZIV3ROVjBaV2FsY3YxYlJudXY0?oc=5
+
+## 두산에너빌리티 - 글로벌 원전 공급망 협력의 장, 'NES 2026' 경주서 개최 - 에너지타임뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 글로벌 원전 공급망 협력의 장, 'NES 2026' 경주서 개최 - 에너지타임뉴스
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE5kMUpEMnVxZnBteFEzM2wxZEw4b283aFlKMnpES3pwbEFpVk5ISXk5cTdYM2s4R3YxZzZmTnY4aWcxekNOVnh6d09zVXRIWDNhd29fWkRtSlF3alA3LUsyeUQyQ0NSY25nLWdaWjJDQWFTZ9IBdkFVX3lxTE1sOXBRaDROX05POG1mcnctWnVYMVl6VmZzNDFTUkVFOUY3VUpERDctN1VvdW0xOTJGTllGRXFlVUpFMXVicGYtYXY2UmhLbjIyb2docVRkbjV2cWRDZ0pnczhhS1JtbnhSVnc5a25ISWwyUzFfVkE?oc=5
+
+## 두산에너빌리티 - [기고] 韓·英 원전 협력으로 에너지안보 강화해야 - 한국경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: [기고] 韓·英 원전 협력으로 에너지안보 강화해야 - 한국경제
+
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZlpOUkFrWkRjVFpWZG5XWlEtQXdPbkFjS2YzRjFjLWV4bEEzSEkwamwzSTd5dlRIUV9BN0RJMmI2MFNRYXJ3MlNpTkZtbHNzOVNYcHU5X2pLZw?oc=5
+
+## 두산에너빌리티 - 국가 대도약 길목마다 SK…투자·외교로 뒷받침 - 동행미디어 시대
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 국가 대도약 길목마다 SK…투자·외교로 뒷받침 - 동행미디어 시대
+
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Qc1hjekRUV0M1VVU1MXl6d0VLcDRPMTI5SmlETXotQ19BX09Mc2V3LThQSkpORTlBLWlPb2s1dVFTdFNJUi1MLVkwNFhBZFQyV2g4c3BPb24zaGJGcUE?oc=5
+
+## 두산에너빌리티 - [살집 말집] 78만㎡ 숲 품은 '트리븐 센텀'…부산 분양시장에 새바람 불까 - 스트레이트뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: [살집 말집] 78만㎡ 숲 품은 '트리븐 센텀'…부산 분양시장에 새바람 불까 - 스트레이트뉴스
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE5XWjEwRm1HaU5xaHhrdUZWa3BqS1pRcW9MYVJzb2c3VVRUcmEyWXVhMU5OMEhQNWxBVEdLV0VhQWtHVFMwZFhELTRIU09GWXVOZTg1UkJHR0EzVXY4NDRBaXRibTY5UkNaUHRMOV9qZ0tCWXc?oc=5
+
+## 두산에너빌리티 - 남부발전, 하동복합 발전소 건설 위한 착수회의 개최 - 한국건설신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 남부발전, 하동복합 발전소 건설 위한 착수회의 개최 - 한국건설신문
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTE1oOGV6QmNqRnhUSHNIbXhSQ1RraWw1OWhUU2FFSl82MzNZd3V6TFBjY2NhRlBxVzdEVTgwWnQ1Vy1jZGxrMnRUaFF3WjYwOEdiSDV2MF9aUU5nVm9zbHIwbUFLSE1jVXNCblpV?oc=5
+
+## 두산에너빌리티 - 두산에너빌리티, 영주 '트리븐 가흥' 765가구 분양 예정 - 현대경제신문
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 두산에너빌리티, 영주 '트리븐 가흥' 765가구 분양 예정 - 현대경제신문
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTFAtYUQ2OWN3M1Z2bk5lTnNlcW9xNUlqU3pvR0piM2U4QUctd002Rll4bmx2d20xMGZTUHBfVWJvMVBoV25KRThHUWwxVlN0dHVZV3NnRFlvVER2UTNKSUFRMnlmTG9SRlBLX1JZ0gFrQVVfeXFMUC1hRDY5Y3czVnZuTmVOc2Vxb3E1SWpTem9HSmIzZThBRy13TTZGWXhubHZ3bTEwZlNQcF9VYm8xUGhXbkpFOEdRbDFWU3R0dVlXc2dEWW9URHZRM0pJQVEyeWZMb1JGUEtfUlk?oc=5
+
+## 두산에너빌리티 - 두산에너빌리티 주가, 연이은 약세에 '6만빌리티' 회복 주목…실적 발표 변수될까? - CBC뉴스
+- Category: 실적·재무
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 두산에너빌리티 주가, 연이은 약세에 '6만빌리티' 회복 주목…실적 발표 변수될까? - CBC뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aMFBwTUV3Q0RvNWtjaVhhNEFxZEZ6cFpiaDZidEN6RVRfNmx2QUNHYmZxZWVzX1g5WkdXRG0yV0VGNHV4ZFlSamh5RUdkMDExS0FLa1BVcWJmTUZINXhfMkdYYzZ1SlU4?oc=5
+
+## DL건설 - 준공 마친 ‘e편한세상 시티 천안아산역...선착순 분양 - 땅집고
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: DL건설 관련 유사 기사 1건이 수집됨. 대표 기사: 준공 마친 ‘e편한세상 시티 천안아산역...선착순 분양 - 땅집고
+
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcS1HU1pWZGxwMTBrWU9tbnJ1Sjk2dE8tS3NEMHNodmpFY3NQU2lrd3hudVFBN1ZYNHNRaWdxb18zRjRaVmxyMVZTT0xyazVWczRtRC1iS0hVbEs1WXBlMFNQNjBfNlgtR0tPcWpmbW1lbWM0a3ZkaE8zMjV2cjTSAXNBVV95cUxQRm83VXdaS2pJNm1jQmRPY2hvR2JfeUFpaXVSN0VZR0gxRWdlQS1wWFplR1phZFBsbFpNS183X1ZGWE1IR1NXOHBjQnMzT2hYMnNkTHpJREp3WHkyYjlvaEVqV19vdW10SDNPUWh1dENsRi1J?oc=5
+
+## DL건설 - DL건설 발 뺀 김포 사우북변지구, 라온디앤에스 등 새 주인 맞아 재시동… 김포시 “사업 차질 없이 정상 추진” 강력 천명 - 새한일보
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: DL건설 관련 유사 기사 1건이 수집됨. 대표 기사: DL건설 발 뺀 김포 사우북변지구, 라온디앤에스 등 새 주인 맞아 재시동… 김포시 “사업 차질 없이 정상 추진” 강력 천명 - 새한일보
+
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjQlhVMUlKRW1Ga2d6MWNnSDFsNTZxYUU0dXVFZXRneUZMTXRwV3NUdWtudFlHV0JYMUp1cHhBVm9seThwUE04bHM2a3lDelNQTy1ycm16RV9PaGNVUVpiMGJDMFB0VnM?oc=5
+
+## 호반건설 - 무협, 건설 대기업 4곳과 스타트업 연결…스마트시티 기술 실증 지원 - 포인트데일리
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 무협, 건설 대기업 4곳과 스타트업 연결…스마트시티 기술 실증 지원 - 포인트데일리
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRThna0s4ai1WSmg3OVR4VHBvRktBd2dvMEp6Qkl3c2JhT0hPT1JMb1NIQ0pVN3NRVG4tRVRLQngxOGd0SmtxNmxZbXJubE9WRC1LdDVDMEhYcEtkLUZ1alpjTGRYenp3WDNHUlN3dVDSAXRBVV95cUxNQlhTQjBfTlZydjUxa3JMUEFVbW9ldTBtQ0NwQWpYcHRfVXFMQkZhQVZ5aWJ1VW5Ram84MGdjRkJyYlFLb05pMXpFY0JLdGUxZzVORjYzMVBPTnA4OXF4S01jYVJLUkhEZ09Kb0kwd2s2UmxDNw?oc=5
+
+## 호반건설 - 건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다 - 중소기업신문
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다 - 중소기업신문
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE1kdG42WU5fbTRBN1B0VG1BelJ0X1Z6aHZ5dnV0WnNLYXV6TDR1ZEY5ZWFla01oUnNmSkJfM3JmVXJ1dnFHbjQ3c09XeHNYZFlXd1lQSlRaZEo4Ujg4M3ctTEZ3S21IZnd6b01MLURn?oc=5
+
+## 호반건설 - 스마트시티 혁신, 대기업과 스타트업의 만남이 주목받는 이유 - 공감신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 스마트시티 혁신, 대기업과 스타트업의 만남이 주목받는 이유 - 공감신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZDNvbWJkbzBVQ21pU3ZwaVNSOWtzVmI5RFhTN1NPYUZfbFlMVU5HMFBiQ1Eya0hlSVF0WWJteHFCMWJKcWZZNVdfY0FmWmtmMjVPSndNaXhwSVhraHdUa2NrZG1sWjBD?oc=5
+
+## 호반건설 - 무협, 현대건설·롯데건설·호반건설·SK에코플랜트 등과 손잡고 스타트업 발굴 - 메가경제
+- Category: 해외사업
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 무협, 현대건설·롯데건설·호반건설·SK에코플랜트 등과 손잡고 스타트업 발굴 - 메가경제
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE1BejZKNGp4eW5MV212clNlbXVHUGdOVS1Bb2tHaG9aMlU5Q0ZGa1VVNmNyWU44WlZLV0M3TEN2M1NDQWdOWjdQUXYtNFNWQ29ZemJJU3piZ25iUjJIeEs1eG5qZjNsVXJXNS1GTFdSLVZUUdIBckFVX3lxTE1BejZKNGp4eW5MV212clNlbXVHUGdOVS1Bb2tHaG9aMlU5Q0ZGa1VVNmNyWU44WlZLV0M3TEN2M1NDQWdOWjdQUXYtNFNWQ29ZemJJU3piZ25iUjJIeEs1eG5qZjNsVXJXNS1GTFdSLVZUUQ?oc=5
+
+## 호반건설 - 롯데·현대·호반건설 등 주요 건설사들, 스타트업과 손잡고 스마트건설 협력 - Queen 이코노미퀸
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 롯데·현대·호반건설 등 주요 건설사들, 스타트업과 손잡고 스마트건설 협력 - Queen 이코노미퀸
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1LRHRFeUFNWjJCNnBsWEpwWXhKVUo4N3ozX0x2VkNwMFpOanZaUy00eU9LV1pSV3VBWkFBRWRPUm1qZ2pMbEp5VFhwOVFhakhmRzUzU09LdXhlalNlWHlTTkVOa3p1aC1nUHc?oc=5
+
+## 한화 - 한화큐셀, 판교 연구실 3곳 안전관리 우수연구실 인증 획득 - 로이슈
+- Category: 안전사고
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: 한화큐셀, 판교 연구실 3곳 안전관리 우수연구실 인증 획득 - 로이슈
+
+https://news.google.com/rss/articles/CBMiekFVX3lxTFB0b1NVZURLMXRsaExhbWFuMjlYaURiNWJteFlnTHNTOHE2OE8yX2dHR1pLTHVtdU9VTE9fLUtsbFh5Rkh1Yy05amtxdWhRdGdtOUl1Zk9CUU9CWEpSRVRGVHUyOHdJRGNRUkhUeU9XcG5BWmxvdUtUN1VR?oc=5
+
+## 한화 - 한화큐셀, 판교R&D센터 연구실 3곳 ‘안전관리 우수’ 인증 - FETV
+- Category: 안전사고
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: 한화큐셀, 판교R&D센터 연구실 3곳 ‘안전관리 우수’ 인증 - FETV
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QaGNBNWhvUEE4QXFJYkJra0Z3U1dDTXVwWGw1dE9Talp4Ti1FQzBKc1NzOENtS211N2JTUWE4RVIzTEhtY0hjS254dDhJNFNEdzlEQjNfY3dPZmM3SkJNNUFFVm5idUNn?oc=5
+
+## 한화 - [생보사 3Q 실적 프리뷰] 한화생명, 투자손실에 3Q 적자 전망…보험손익은 회복 - 한국금융경제신문
+- Category: 실적·재무
+- Sentiment: 부정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: [생보사 3Q 실적 프리뷰] 한화생명, 투자손실에 3Q 적자 전망…보험손익은 회복 - 한국금융경제신문
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWVZHMnUxMW5KcnRRVlZVTS14RTVpNXV5eGpYd1JqVFVBdXhJYVRYbFA0ZThfeW5fR0ZxMjJ3YXUyWlo0WGRHVWdwQjh5M2J5bV9kMFlMOHJBRFhNQVd2bGpjV3R0cnRqLS1CU9IBcEFVX3lxTFBPN1kzb3R0VTdzdUpkMEd1c3FpUmJxZ29Pd19VR01zQmU4RUtfYkV1MWJyY2ctTnRRNTNFcEhnSDNSTHZoWVFmN1dUaVc3bWpaZjVCNWd5R2Y4cUtLSjZQbzVsaFpndm80NUF6ZkhGSm4?oc=5
+
+## 한화 - 한화큐셀 판교R&D센터 연구실 3곳, ‘안전관리 우수연구실’ 인증 - 스트레이트뉴스
+- Category: 안전사고
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: 한화큐셀 판교R&D센터 연구실 3곳, ‘안전관리 우수연구실’ 인증 - 스트레이트뉴스
+
+https://news.google.com/rss/articles/CBMid0FVX3lxTE1GbGJpS2hYeUpqWFVaeXdVMlVzOFd0Vk1CZnhHX1E4OTIxRlExb3lLMDlWSlF3ejNKUzBzSmJwWEhoajkybm5XQ2pkcnpacDVWclVfbXFlMFpQM2ZXbndwQkxrZndoSV9aLXpEOGNyQXdXWk9PMW930gF3QVVfeXFMTUZsYmlLaFh5SmpYVVp5d1UyVXM4V3RWTUJmeEdfUTg5MjFGUTFveUswOVZKUXd6M0pTMHNKYnBYSGhqOTJubldDamRyelpwNVZyVV9tcWUwWlAzZldud3BCTGtmd2hJX1otekQ4Y3JBd1daT08xb3c?oc=5
+
+## 한화 - 한화오션, 3분기 실적 영업이익 5053억원 전망...시장의 기대치는? - CBC뉴스
+- Category: 실적·재무
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: 한화오션, 3분기 실적 영업이익 5053억원 전망...시장의 기대치는? - CBC뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kS1JQTXFRRWxkZldyekRNR0dMbDNNeVVnVURfVDFEMkJnaU50QzB1Nk5YbDYtM1JSZW84QnQ3RnJNR01ZVmJCY1J0QTVqS1lNR0sxeUxCWmdrajA3RnYtM25TU2tGazFG?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발, 4482억원 '금정역세권 1구역 재개발' 수주 - 신아일보
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발, 4482억원 '금정역세권 1구역 재개발' 수주 - 신아일보
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1pRlVNOUNSRGtjZEp4clBrdVNRNFdKWGtIXzBVOXZMZkxFRTY4N3BZaW1LR2s4QjFseUxaNDE4QkZtbGp4V2xMazZSTjBzdnBueDFvRUZPamhGdEpGTDFyWU9QMm1tLUVVT0QwRUc2ZEI?oc=5
+
+## HDC현대산업개발 - [도시정비시장 풍향계] IPARK현대산업개발, 금정역세권1구역 수주…4482억원 규모 - 대한경제
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: [도시정비시장 풍향계] IPARK현대산업개발, 금정역세권1구역 수주…4482억원 규모 - 대한경제
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE11NzUxNDBoeGlrZ2llSTJadGhsbWROVFZHOC1CS1FfOWFXdnJ5eUVjVlViUzFHcjVKUzkwMTdxQkloRkFsT0s0dUtVUDhXeXdQX2xxemZpeXlTWTlwaENPVEQ5cnpWbVhkNzRBbWtGb3pvc1U?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발, ‘군포 금정역세권1구역 재개발’ 수주…도시정비 2조원 돌파 - 팍스경제TV
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발, ‘군포 금정역세권1구역 재개발’ 수주…도시정비 2조원 돌파 - 팍스경제TV
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZS05ejFsRlQxbUlmQVdPX2habXV0LWlKRFlSOUFpZmNucjlrNXNiTHBwbjg0VjdCbWlwUjNmLW5RUXFfOURKb2hVeEl4azNUVmkwWHBuOFpXZDZYWjhHUEdwN0dkTk4x?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발, 4,482억 '군포 금정역세권1구역 재개발' 수주 - 국토일보
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발, 4,482억 '군포 금정역세권1구역 재개발' 수주 - 국토일보
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxVVEwblFWb1U0d29QV2REN1BiT2xyS1B2dW9iMnRUSkZpVWMzSVZxbm0xOFhXaWtBRlU0WGNVNjJDVXh3TFJMaTZjWEJvakVMWThpaVBvbDgtRV91X1hJdktMcw?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발, 4482억원 규모 금정역세권1구역 재개발 시공사 선정 - 에너지경제신문
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 2
+- Summary: HDC현대산업개발 관련 유사 기사 2건이 수집됨. 대표 기사: IPARK현대산업개발, 4482억원 규모 금정역세권1구역 재개발 시공사 선정 - 에너지경제신문
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfMlp1SmFzbkVFSnZxam9uS08taVVpcTFKVW9SM0ZSTUpQbGdDT0tqV1dLOWl0UTVkWE15bmlqbEVpaGJLelNDSjZrQmxwNEFNVFYtTWU1aFMwU29fd1lqREVCTQ?oc=5
+https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWjc3MkE2T2g0ZDJvRzdnaDR1LXlPeUoybnMzeUxDMjBtdXJldElobDllbDBCeVlxU0VGZ0JhY1ItS1pFRmIzblpVSEhjUUx6M2dCYXJIY1d2YXdOQklTQQ?oc=5
+
+## SK에코플랜트 - 무협, 건설 대기업 4곳과 스타트업 연결…스마트시티 기술 실증 지원 - 포인트데일리
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: SK에코플랜트 관련 유사 기사 1건이 수집됨. 대표 기사: 무협, 건설 대기업 4곳과 스타트업 연결…스마트시티 기술 실증 지원 - 포인트데일리
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRThna0s4ai1WSmg3OVR4VHBvRktBd2dvMEp6Qkl3c2JhT0hPT1JMb1NIQ0pVN3NRVG4tRVRLQngxOGd0SmtxNmxZbXJubE9WRC1LdDVDMEhYcEtkLUZ1alpjTGRYenp3WDNHUlN3dVDSAXRBVV95cUxNQlhTQjBfTlZydjUxa3JMUEFVbW9ldTBtQ0NwQWpYcHRfVXFMQkZhQVZ5aWJ1VW5Ram84MGdjRkJyYlFLb05pMXpFY0JLdGUxZzVORjYzMVBPTnA4OXF4S01jYVJLUkhEZ09Kb0kwd2s2UmxDNw?oc=5
+
+## SK에코플랜트 - 스마트시티 혁신, 대기업과 스타트업의 만남이 주목받는 이유 - 공감신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: SK에코플랜트 관련 유사 기사 1건이 수집됨. 대표 기사: 스마트시티 혁신, 대기업과 스타트업의 만남이 주목받는 이유 - 공감신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZDNvbWJkbzBVQ21pU3ZwaVNSOWtzVmI5RFhTN1NPYUZfbFlMVU5HMFBiQ1Eya0hlSVF0WWJteHFCMWJKcWZZNVdfY0FmWmtmMjVPSndNaXhwSVhraHdUa2NrZG1sWjBD?oc=5
+
+## SK에코플랜트 - 건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다 - 중소기업신문
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: SK에코플랜트 관련 유사 기사 1건이 수집됨. 대표 기사: 건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다 - 중소기업신문
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE1kdG42WU5fbTRBN1B0VG1BelJ0X1Z6aHZ5dnV0WnNLYXV6TDR1ZEY5ZWFla01oUnNmSkJfM3JmVXJ1dnFHbjQ3c09XeHNYZFlXd1lQSlRaZEo4Ujg4M3ctTEZ3S21IZnd6b01MLURn?oc=5
+
+## SK에코플랜트 - 무협, 현대건설·롯데건설·호반건설·SK에코플랜트 등과 손잡고 스타트업 발굴 - 메가경제
+- Category: 해외사업
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: SK에코플랜트 관련 유사 기사 1건이 수집됨. 대표 기사: 무협, 현대건설·롯데건설·호반건설·SK에코플랜트 등과 손잡고 스타트업 발굴 - 메가경제
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE1BejZKNGp4eW5MV212clNlbXVHUGdOVS1Bb2tHaG9aMlU5Q0ZGa1VVNmNyWU44WlZLV0M3TEN2M1NDQWdOWjdQUXYtNFNWQ29ZemJJU3piZ25iUjJIeEs1eG5qZjNsVXJXNS1GTFdSLVZUUdIBckFVX3lxTE1BejZKNGp4eW5MV212clNlbXVHUGdOVS1Bb2tHaG9aMlU5Q0ZGa1VVNmNyWU44WlZLV0M3TEN2M1NDQWdOWjdQUXYtNFNWQ29ZemJJU3piZ25iUjJIeEs1eG5qZjNsVXJXNS1GTFdSLVZUUQ?oc=5
+
+## 롯데건설 - 롯데건설, 서울시 청년안심주택 ‘서초 롯데캐슬 아트팰리스’ 분양 - 로이슈
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 롯데건설 관련 유사 기사 1건이 수집됨. 대표 기사: 롯데건설, 서울시 청년안심주택 ‘서초 롯데캐슬 아트팰리스’ 분양 - 로이슈
+
+https://news.google.com/rss/articles/CBMiekFVX3lxTE5PM2pBdmxFTHVla0tPQW9rdWlKWl9rT29hSVBPYWozdlBhWGdrNkJsZjVDV3dRdlk1cnV3N3kyVU1WbGIyMTlZeGVocnltdFZDeTRjUjBEX1lybEhsNzFxZnNZY2RzRlkwVWtHTTNaZ1dPZVc5Z1lQQ25n?oc=5
+
+## 롯데건설 - 롯데건설·IPARK현대산업개발 ‘서초 롯데캐슬 아트팰리스’ 11월 분양 예정·군포 금정역세권1구역 재개발정비사업 수주 - 여성소비자신문
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 롯데건설 관련 유사 기사 1건이 수집됨. 대표 기사: 롯데건설·IPARK현대산업개발 ‘서초 롯데캐슬 아트팰리스’ 11월 분양 예정·군포 금정역세권1구역 재개발정비사업 수주 - 여성소비자신문
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE91QmZPZ2pIUFJZVUxiYU1VU1RPcWFHT04zM2pzc0pITTFYNlptdWducHd1X0FYQTF0T2dySVJTX2ZfWGhhSXlpdW5wOU1vdFFoWm02UjhKdHpQdVQwRi1KbHZzajhMZw?oc=5
+
+## 롯데건설 - 롯데건설 등 4개 건설사, 스타트업에 스마트건설 협업 과제 제시 - 연합뉴스
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 롯데건설 관련 유사 기사 1건이 수집됨. 대표 기사: 롯데건설 등 4개 건설사, 스타트업에 스마트건설 협업 과제 제시 - 연합뉴스
+
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE9heWpoREF1OXRnZm1ZLVZKVkxNczI5V1pKTUJrWV9EcElRSXMxVUtZTUI1Vk4wTVl0Q0hFc1JvVkRVVHlaRlR4NGJLVkdtUWVTdDlvRDk3aUNadnRuNTRxS9IBYEFVX3lxTE9heWpoREF1OXRnZm1ZLVZKVkxNczI5V1pKTUJrWV9EcElRSXMxVUtZTUI1Vk4wTVl0Q0hFc1JvVkRVVHlaRlR4NGJLVkdtUWVTdDlvRDk3aUNadnRuNTRxSw?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨, ‘아크메르 동탄’ 청약 돌입…1808가구 공급 - 환경경찰뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨, ‘아크메르 동탄’ 청약 돌입…1808가구 공급 - 환경경찰뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE43T2s3bHRtNTJkSVBfX21WbTYxLVMzWjFJaUpEdWViZmJ6U2FMSE9rR08xSE5iWlJveXF2WU1oRllTU0xNVGxUQ3NjeWlpN2FsWDVBeTBBN3djME8zQlFiUXhBc2FfaHBQ?oc=5
+
+## 포스코이앤씨 - [이슈플러스] 대형 건설사, 노후 아파트 공략…리모델링 사업 다각화 - 서울경제TV
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: [이슈플러스] 대형 건설사, 노후 아파트 공략…리모델링 사업 다각화 - 서울경제TV
+
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4S01GaWx2dEFiaFBUSkZKRExkQUNpUHE3T0xjUU1NUGlGUzFvRUVDcVZCYXMxeklOaUFieGFjV05iNW50VVVxZXZNREc2LVpORjZJLXlILU42elhzWURXcU1idV8?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨 ‘아크메르 동탄’, 특별공급 시작...26일 본격 청약 돌입 - 팝콘뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨 ‘아크메르 동탄’, 특별공급 시작...26일 본격 청약 돌입 - 팝콘뉴스
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5sb3BkVUFWYjdfc2xSb0dZSTk0ci1iLXRXbWFTSEJuQUdaeEpraDg3eWVRZW5WX0N4SlJrczVWcU1JYnVqR3poQWdETll4Y0xCdGtSQlBVQWFiSjV3YnZJTUhTRUptSTIxOFlHN2F30gFyQVVfeXFMT0dVaUlud0J2V0hPckMxWVRYcm00d29tdThJTWVGQ2FReGkzbDQyZXdsR2ZxdU5rWU9iTFBEME9ZX1h6b1hqVUlQZHoyVy1BRWEzS2VLSHZocGxEQUVPYzJqd256M0cxdGc5dV81eGpvSVpB?oc=5
+
+## 포스코이앤씨 - 법 위반 403건·설계 하중 2.5배 과소… 처벌·처분은 아직 제자리인 송치영 포스코이앤씨 대표의 숙제 - CEO저널
+- Category: 소송·제재
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 법 위반 403건·설계 하중 2.5배 과소… 처벌·처분은 아직 제자리인 송치영 포스코이앤씨 대표의 숙제 - CEO저널
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdVdvdmFzamQ5aXdCNU50a2JYMWhuRGZRXy1sMzhTek1hOWg2cU1XY0RPZlQ4UjR4bnNTbGxZcG1va0lMSU90eXJsRGwyLUdfSW81OU5xRlZWNGFrVDNEOGpaQ2xIbjBIalM40gFrQVVfeXFMTXN1V292YXNqZDlpd0I1TnRrYlgxaG5EZlFfLWwzOFN6TWE5aDZxTVdjRE9mVDhSNHhuc1NsbFlwbW9rSUxJT3R5cmxEbDItR19JbzU5TnFGVlY0YWtUM0Q4alpDbEhuMEhqUzg?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨, ‘아크메르 동탄’ 1808가구 청약 돌입 - 한국금융경제신문
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨, ‘아크메르 동탄’ 1808가구 청약 돌입 - 한국금융경제신문
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RjZ4dkVCcnJHWGlvemNmTGNVbmRUUUlwb2NnVXJpVkdMWjJJV2lZbEJ3aHJ3TndFNzhGSm9oNUZoVGc1VXVkRVVqMHZ6Sk1jMkZLTjFUN1p3OXFISXZKNFhlcVdZZlZjLU9RVtIBcEFVX3lxTE9QUjE5WFp4UXZiZ2JoVWxHdGVnenJ5TjBlZEx5ckhVYzRNVmRRRzZKWHlJQWVaS3FSbmVRVFhyWHJfTUpVMjRCOE1ZWXVEOEEyM3dfYnMxNmNCd3Baa2VEX25zQmtJY1p6OWdmdWxPZ3A?oc=5
+
+## 포스코이앤씨 - 수주보다 수익…포스코이앤씨 성과급 대수술 - SBS Biz
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 수주보다 수익…포스코이앤씨 성과급 대수술 - SBS Biz
+
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oWEZsYUxONUNKcXNka2ZjUGlkSmxVVWtVYllVZ2loZjdRNjIyeEtlV3NXMWpFcUJxT3ZDM0dZVmZNc2pTUG05UUVDaW1DdW1kQ3ZR0gFYQVVfeXFMTjFyaXZreHVtZXRDc2dRUEVFb2lHMlI3RUVoNDZ3T01lQnVfRl83LVVHekM2QmlkdnA3SDlxWGVUWVNISlU2M251Z2hSOWVuMk0tbWZPcmkxSA?oc=5
+
+## 현대엔지니어링 - 현대건설, ‘알러지 케어 솔루션’ 개발…세균 99%·유해가스 96% 저감 - AP신문
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, ‘알러지 케어 솔루션’ 개발…세균 99%·유해가스 96% 저감 - AP신문
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRnZJTURMMVc0aTRFeExaRTVJTTJOQncyRXdBeTZ0Nll5OG9fLTA4WnlHMzJJTlR2aHhKOXdnNUVWVzBLUnVwRXhFS25RZ2d6WEtoQzRHQzBCaTFsNmFTcWpvQVpQSkJmaFl5TtIBbEFVX3lxTE5yRnZJTURMMVc0aTRFeExaRTVJTTJOQncyRXdBeTZ0Nll5OG9fLTA4WnlHMzJJTlR2aHhKOXdnNUVWVzBLUnVwRXhFS25RZ2d6WEtoQzRHQzBCaTFsNmFTcWpvQVpQSkJmaFl5Tg?oc=5
+
+## 현대엔지니어링 - 부유 세균 99%까지 제거…현대건설 실내 공기질 기술 개발 - 서울경제
+- Category: 연구개발·기술
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 부유 세균 99%까지 제거…현대건설 실내 공기질 기술 개발 - 서울경제
+
+https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSk5iY3lGQ2RiS1hsU2FzRmpTOWFzLXlhYkdvTTFtTzJ6UUlEUjJ1V2lubHZUV0Q5UzJXOTB5NVJXQ2gwY2NiOGplQ1VWd3pIb0Fj0gFTQVVfeXFMUFlKTmJjeUZDZGJLWGxTYXNGalM5YXMteWFiR29NMW1PMnpRSURSMnVXaW5sdlRXRDlTMlc5MHk1UldDaDBjY2I4amVDVVZ3ekhvQWM?oc=5
+
+## 현대엔지니어링 - 현대건설, 실내 공기질 관리 '알러지 케어' 개발 - 코리아리포트
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, 실내 공기질 관리 '알러지 케어' 개발 - 코리아리포트
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTFBqOWZidUw1TFBOWUg0MEhIclkySVRydW9WcXREbndDSjE1VXJZRF90QlJmTDBxUUZTTWptWDZIM3VzeFNyZDdMRndrazNOQ1VmTG82TW5KaGNEZkVXckpmdi1vb3QtWThVRkhNOXk?oc=5
+
+## 현대엔지니어링 - 대형 건설사들, 중대재해 영업정지에 ‘취소소송’ 후 계속 수주 - 대한전문건설신문
+- Category: 수주
+- Sentiment: 부정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 대형 건설사들, 중대재해 영업정지에 ‘취소소송’ 후 계속 수주 - 대한전문건설신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tNWVuMjluSUlud2tkdmJRNzN3Rlh4ajRfeURpaVU5X3VLSGpUdEZCY2QyQlZSa0JrUERKT0V0VUp3S2pYOFNQRnp3eS1UckljeVVEdjdUaWpONlNHRDRLUWRoNVRqS1Fm0gFsQVVfeXFMTjAzeHFJV2lqQlRvc2hnYTFqRlpad0NOcWpzNHVfRVA5bGpkdVlSRERpWDd1Y0l4M3FfbVNDYWdkSXN0akF6VlBLWHNBa0E2dVI3MzhZcXVCd21ZTUdyaHA4XzdEckpFYmQyVHVx?oc=5
+
+## GS건설 - [건설현장 안전의 역설] 영업정지 처분은 법정에 묶이고…대형 건설사 수주는 수조 원대 - 지이코노미
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: [건설현장 안전의 역설] 영업정지 처분은 법정에 묶이고…대형 건설사 수주는 수조 원대 - 지이코노미
+
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSW82RzVucDZQTkFvSlVJZDNFcFNadWk2SG1Zckh4ZTlMMTFtdkpWT1p5MU9hTjNZcWRydnBNb0hHRE9RX182M3ZTWVhfMjNibXA2dTBnOUl4dFVPakMyWm4xUWo?oc=5
+
+## GS건설 - 산재 사망 상위 10곳 중 9곳 건설·배달업…영업익 5% 과징금 시행 영향은 - 브릿지경제
+- Category: 안전사고
+- Sentiment: 부정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: 산재 사망 상위 10곳 중 9곳 건설·배달업…영업익 5% 과징금 시행 영향은 - 브릿지경제
+
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wRzVYNThtSjhLa0x1S1A2UVhyWFlJbU5aZWJ4UXJCa3hzVzEyN25FSlFjTzVwcmFTQmlMakhVb1B4OGlTNWFCVGFCM0dEdzN1MnpJWWNFOW1vZw?oc=5
+
+## GS건설 - [이슈플러스] 대형 건설사, 노후 아파트 공략…리모델링 사업 다각화 - 서울경제TV
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: [이슈플러스] 대형 건설사, 노후 아파트 공략…리모델링 사업 다각화 - 서울경제TV
+
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4S01GaWx2dEFiaFBUSkZKRExkQUNpUHE3T0xjUU1NUGlGUzFvRUVDcVZCYXMxeklOaUFieGFjV05iNW50VVVxZXZNREc2LVpORjZJLXlILU42elhzWURXcU1idV8?oc=5
+
+## GS건설 - 대형 건설사들, 중대재해 영업정지에 ‘취소소송’ 후 계속 수주 - 대한전문건설신문
+- Category: 수주
+- Sentiment: 부정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대형 건설사들, 중대재해 영업정지에 ‘취소소송’ 후 계속 수주 - 대한전문건설신문
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE4wM3hxSVdpakJUb3NoZ2ExakZaWndDTnFqczR1X0VQOWxqZHVZUkREaVg3dWNJeDNxX21TQ2FnZElzdGpBelZQS1hzQWtBNnVSNzM4WXF1QndtWU1HcmhwOF83RHJKRWJkMlR1cdIBbEFVX3lxTE4wM3hxSVdpakJUb3NoZ2ExakZaWndDTnFqczR1X0VQOWxqZHVZUkREaVg3dWNJeDNxX21TQ2FnZElzdGpBelZQS1hzQWtBNnVSNzM4WXF1QndtWU1HcmhwOF83RHJKRWJkMlR1cQ?oc=5
+
+## DL이앤씨 - 박해철 의원, 중대재해 작업중지 10건 중 9건‘부분 중지’ 대기업엔 더 관대한 솜방망이 처분 확인 - 경기신문
+- Category: 안전사고
+- Sentiment: 부정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: DL이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 박해철 의원, 중대재해 작업중지 10건 중 9건‘부분 중지’ 대기업엔 더 관대한 솜방망이 처분 확인 - 경기신문
+
+https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjMDRoV2k1T0FBQTM4eVJmaUFDM0RTUDl5U3RHZDJMUEFxTWpPTW9YQW5Vei1yN3RKOTA2blV5ME1CU3BydEgyM3hrUnpfWktiLU5TV2p0d1JrTDIzTTBSZ1hR?oc=5
+
+## DL이앤씨 - 목동6단지, 사업시행인가 신청… 내년 초 고시 예상 - 한국주택경제신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: DL이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 목동6단지, 사업시행인가 신청… 내년 초 고시 예상 - 한국주택경제신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XbXRuSFRkMzBlTTR6dWJMTjU1NF91Z25HV2l3REw2dUR1cy1ybDNVTHU0V1lpTlF3MHMtU3VXMjJ0Smc0NG5aMEltVmhMeE9UbldNMXdNbGxWUmtrXzY0QW45bTM3YUl2?oc=5
+
+## 대우건설 - 대우건설 주가 480원 하락 후 마감 - 아시아뉴스통신
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설 주가 480원 하락 후 마감 - 아시아뉴스통신
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTFBEZ3RVaEVhVmNZa3JycmFQSzVicC1kamthRVZxbVIxRU5BMVRDSDdSOE45V0REbWtWUWF5aG1BTkxZN0hGWVZKWWFsNTF5amdEQjl1bjZyR1BmYks2bGR0RmxPRXEzY0w4VkpVMXFFVGRhWDFr?oc=5
+
+## 대우건설 - 건설사 3분기 실적 희비…정비사업·AI·원전 활로 모색 - 대한데일리
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 건설사 3분기 실적 희비…정비사업·AI·원전 활로 모색 - 대한데일리
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE9uZHRKM092a0FRT0Mxa1FkNFJVUmNPOG42U1NUSVRiMEp3Vi0xRTBjZ2c5NkZ2N1VkZHpHNF80a1Y3Qk5aemRtYjJnLVNhZWlsakpDdFppdTIxWVBQZEozLXV0c2RXcmJzVEE?oc=5
+
+## 대우건설 - [도시정비시장 풍향계] 대우, ‘1.2조’ 신월시영 재건축 노리나…1차 입찰 단독 참여 - 대한경제
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: [도시정비시장 풍향계] 대우, ‘1.2조’ 신월시영 재건축 노리나…1차 입찰 단독 참여 - 대한경제
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTFBhTnVNU3BCcm5ZUmtSUmZCeHhfLWJ0T2hJYTFoUFhvZ2lfSGNCdVN3a1VBUDBQUjkxaDJpNlNKWGF1RW43emUyLXAxZE5pZ3VDajhDTU9EbDJWT193Wnd2Q2dtdG1XNjJ6UWhSZEdnMEVERF94?oc=5
+
+## 대우건설 - 대우건설, 1.3조 신월시영 재건축 단독 응찰…현장설명회 참석 4곳 중 유일 - 녹색경제신문
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설, 1.3조 신월시영 재건축 단독 응찰…현장설명회 참석 4곳 중 유일 - 녹색경제신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5bU05UGFkU2hOVnFYbThIVkZBMmVVTjdnNVFpQ01fNWR2VXlOc0tzZHRTODI0ZUhzV2ctak50czc0THluVmFfUlItU2hDWkkwRGlTVnNKRWxxSzl5cEE4YkFjci1JaEhC?oc=5
+
+## 현대건설 - 현대건설, 부유세균 99% 줄이는 ‘알러지케어솔루션’ 개발 - 한국금융신문
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, 부유세균 99% 줄이는 ‘알러지케어솔루션’ 개발 - 한국금융신문
+
+https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUmk5RE4teUs1VU03WXVRUGl4cGl0NWhYWW84YWliSGM1VlVNWmJ5alVSNVNXNEpydi1aSE41LXhxX2Y1VmdQbGRCaWV2RUZScVFJY3RXT3lNaGtjYUVFSTNrdk5lRk5hSTZMNnpUWXo3ZUhURVpER1BhQ18?oc=5
+
+## 현대건설 - 현대건설, 실내 공기질 맞춤형 관리 알러지 케어 솔루션 개발 - 연합뉴스
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, 실내 공기질 맞춤형 관리 알러지 케어 솔루션 개발 - 연합뉴스
+
+https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxM1VLRE5sdXZVaVc3TlhCX3UzbU4xV0JTd0VwYmZlQ2dVbWRYd1pMdERmU0xKRk9jN3lDQkhQMUlTQ0NJY2lXekpubTN1ekhKSkRjUWhRVDlDMk3SAWBBVV95cUxPTzg1c1BnMVIyTG5Oa0s1WmNENDFPWFNFbTNBZU5UZmdxZXlQSFlSaWp4LXZ6a3hFYW81M0YwaHI4QmhDZW81aUM2WmpVZHZkVzJDSk9LX2p2RzlEdzNCbXI?oc=5
+
+## 현대건설 - 현대건설, 멕시코에서 폐기물 에너지 순환 사업 논의 - 더구루
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, 멕시코에서 폐기물 에너지 순환 사업 논의 - 더구루
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNktaSWloRHctVGpIQzZiaVZQQVdsQVpZbU5CZU11M0V5cUZ3YVhybk9NX01mWDF2YnIzX2V5VHBRSnMtWnFOal9KNmFxaGdZVGpMdFQ2VXF4cnY2RGV0YjRmQQ?oc=5
+
+## 현대건설 - 현대건설, 실내 공기질 관리 '알러지 케어' 개발 - 코리아리포트
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, 실내 공기질 관리 '알러지 케어' 개발 - 코리아리포트
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTFBqOWZidUw1TFBOWUg0MEhIclkySVRydW9WcXREbndDSjE1VXJZRF90QlJmTDBxUUZTTWptWDZIM3VzeFNyZDdMRndrazNOQ1VmTG82TW5KaGNEZkVXckpmdi1vb3QtWThVRkhNOXk?oc=5
+
+## 삼성물산 - 아파트서 편하게 AI 건강관리… 삼성물산 래미안에 ‘웰피’ 적용 - 동아일보
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 아파트서 편하게 AI 건강관리… 삼성물산 래미안에 ‘웰피’ 적용 - 동아일보
+
+https://news.google.com/rss/articles/CBMidkFVX3lxTE85bU1UMU0tX2d3d2lRZlJvNGJuRGlraTM3QlVZOTVlTEU5bEFVeTFGS0hsS0ZzS1RmWkZhMEJLbHRjR3BlZ0R5UTlNWnhxTkVlcXAteHdWUExTNzlpUU9nRkVQckhxYUVoRU95S1Q0dUhSaHQ2enfSAWZBVV95cUxPQlRwNTlPc0lHdXVLaG1wTDhhYTNYcnZLNkxxWjJZeXlUTERjSWpIeUc1WjZyOEtBSl9VOE1Xd1lxdGw5YTVhVE1SSlVNcWFhLWhOSm9vVFd1U1J4bngyWGdHb0d6bUE?oc=5
+
+## 삼성물산 - 반포·창원서 연이어 수주…삼성물산, 연간 정비 수주 첫 10조 - 한국경제
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 반포·창원서 연이어 수주…삼성물산, 연간 정비 수주 첫 10조 - 한국경제
+
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FMFo1MVRWNUVubk5VTE41RnRkdzFuWTFCVEFzdUU2TGVUTjFpakFzaS1yZEhQZUIyazBYWW91eG5TQlpWWVY3MzhjeHNMSGRDNV9pN3lpTDFodw?oc=5
+
+## 삼성물산 - 삼성물산, 7381억 규모 창원 용호1구역 재건축 수주 - 이코노미스트
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 3
+- Summary: 삼성물산 관련 유사 기사 3건이 수집됨. 대표 기사: 삼성물산, 7381억 규모 창원 용호1구역 재건축 수주 - 이코노미스트
+
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nd1FxY0VOMXlqQXNtMWRSWTk4Y2FXUlFUZE9JZHdaTHduWHVwSG1jNWZYZ2hrVGRqakJGMnVDbGRPT1hKVlJncWhQY3ZQVGs1RE9WZlUwUUlBMVVLWmZXTWl3?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sRm5wbVVPX1FfRjJIZGkwRmY5bFJMUE9NSmZqMHF1Ui1Na2hmem5sMHcyVC1RcDc2Wk1KTUotOEdkTVZGZkUxQ1FKZDZQbVhx0gFUQVVfeXFMUFQxdmtsQVNjZlV1ckZ6YVBoa21iY2pLWFFicXZhelhTNHhMVWFDSnBLNWViTDNVV0JZeTcxNk90dm1vRVpVU3d3YnpFRnFsWGR4SHBx?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE4yZlZ1ejJkYlRibGFRX3dpMFc3M1J2bG9sT2QwRmdLcUVucTR6V2lzRVUtQlFablFfcHA4M2JiQlpPQ1FRLVpLYnBDOU1hMlRFcmVJRzQ2djd5SnpXZEZIWS1ocURybm5uUllCaFY1VHE?oc=5
+
+## 삼성물산 - 삼성물산, 창원 용호1구역 품고 첫 ‘10조 클럽’…13조 목표 가시권 - 투데이신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 삼성물산, 창원 용호1구역 품고 첫 ‘10조 클럽’…13조 목표 가시권 - 투데이신문
+
+https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTGk1VG9mdTZoNU80cUxTemEtUWtqOU5vT0dIZnlEYk1jT2lyV1d3QV9weGtVYktFRWhiamNjUzRwZDB1U28ySk9JakZmRUlITVdHRVZmVlpsSGhHNkZmRW9tWTVCQTNGZXBmZUdiWdIBb0FVX3lxTE5RTGk1VG9mdTZoNU80cUxTemEtUWtqOU5vT0dIZnlEYk1jT2lyV1d3QV9weGtVYktFRWhiamNjUzRwZDB1U28ySk9JakZmRUlITVdHRVZmVlpsSGhHNkZmRW9tWTVCQTNGZXBmZUdiWQ?oc=5
+
+## 삼성물산 - 창원 7천억 재건축 대어 품은 삼성물산…IPARK현산은 군포 4천억 재개발 수주 - 파이낸셜뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 창원 7천억 재건축 대어 품은 삼성물산…IPARK현산은 군포 4천억 재개발 수주 - 파이낸셜뉴스
+
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rN0tRMFJpV3A1Z29ieTV3ZlZWMXNxaS0ydTRLbTVXMlZGQ3lBdzlUTi13SjA1X3dYZy00alV6WWNxb09RQ3phQ3BDVkM2R3ZHZ2RMeDJnNDlVUQ?oc=5
+
+## 삼성물산 - 삼성물산, 창원 용호1구역 재건축 시공사 선정 - IT조선
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 2
+- Summary: 삼성물산 관련 유사 기사 2건이 수집됨. 대표 기사: 삼성물산, 창원 용호1구역 재건축 시공사 선정 - IT조선
+
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUFFlejF1bjNENDhJVnhRZVBWWnYxaTdFTzJlQWxsM0o0RkhTemNMZWtBaGJ5dmVkb1JTTnYwMWtzaERQYmZ6VWc1czRYYmEyRl9nSVJrZ2VSUXE3WEVqUTh4ZkM2SEFRX0xuR0pDVm5WY2lF0gF0QVVfeXFMTl9QUWV6MXVuM0Q0OElWeFFlUFZadjFpN0VPMmVBbGwzSjRGSFN6Y0xla0FoYnl2ZWRvUlNOdjAxa3NoRFBiZnpVZzVzNFhiYTJGX2dJUmtnZVJRcTdYRWpROHhmQzZIQVFfTG5HSkNWblZjaUU?oc=5
+https://news.google.com/rss/articles/CBMia0FVX3lxTE5YVXhTRVFra2xweHQwNG1HX3JMYmJKeC1OSmxKWmhtdkJZQWpkU0JSZmxmQzMxYkZwckRfZS1uWWxEN0lESnI2M0U2QW1ESGlPTldFQWV3Skt1dHRiQmxpWWdsQTF5WU1ycnk4?oc=5
+
 ## 아이에스동서 - “50년 진주공장 지켜야”…이누스 매각 철회 촉구 - 경남미디어
 - Category: 기타
 - Sentiment: 중립
