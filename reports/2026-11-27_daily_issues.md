@@ -1,5 +1,653 @@
 # Daily Construction Issues - 2026-11-27
 
+## 중흥토건 - 대우건설 컨소시엄, 경북도청신도시 ‘푸르지오 퍼스티온’ 1165가구 분양 - 로이슈
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 중흥토건 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설 컨소시엄, 경북도청신도시 ‘푸르지오 퍼스티온’ 1165가구 분양 - 로이슈
+
+https://news.google.com/rss/articles/CBMiekFVX3lxTE41RTlfak85Wk9FM3RoVVdMYnVpZXYxOUZsMVZ1YmhfWEZhTWVObmtYa3FyWF9DTldzeFBDeXk5aHlkeTlSNlFSM1N1bnpfcGk5czZxYWRoTW1HQldjdkMtSGM5d05nMzVuZEhTeThEUkp4Y1hXeE44dF9R?oc=5
+
+## 중흥토건 - [부고] 전승희 신세계 백화점부문 홍보기획팀장 부친상 - 더밸류뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 중흥토건 관련 유사 기사 1건이 수집됨. 대표 기사: [부고] 전승희 신세계 백화점부문 홍보기획팀장 부친상 - 더밸류뉴스
+
+https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlMDc4bUFtb0ZGdjI4ZjFWZGlhcExVUzRGcktSTlFVOUlibHNSblc1bW1sRnllZHc0VE45SjZLZ01oME5tXzRmZFUyczJ2WVltdnNUVg?oc=5
+
+## 대방건설 - 청약홈 분양정보 분양 30건 접수기간·당첨발표·계약기간｜2026년 11월 28일 내집마련 일정 한눈에 - 민심뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: 청약홈 분양정보 분양 30건 접수기간·당첨발표·계약기간｜2026년 11월 28일 내집마련 일정 한눈에 - 민심뉴스
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5IZ3RJaWVES0RrRXdoMW5TN0tCNmZCV0xHVE5PcE9DaWItWEl3Mng4OUpkZG1NcGtzV01GNTBkMHJIYktqLWt6bFA4WWRFYk81NUZkSzNpOEViT1RIRmh0X0J1dnREaVlqaVFmYWVB?oc=5
+
+## 대방건설 - ‘수원이목지구 디에트르 더 리체’ 1·2차 공급 - 경상일보
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: ‘수원이목지구 디에트르 더 리체’ 1·2차 공급 - 경상일보
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1fYkJzVkk0emlaa2NDTzdvNFJMR1dmYm4wZWpMNWQ2VWVnTENCbDhEeFpRR2lheGRKY0ZTYno0dTh2Yk1qZHJOaktfVk1hcG9IZmZMRUw5b1daUUxIbUc3VVNrMUJfazN0Q3VPbg?oc=5
+
+## 대방건설 - IPARK현대산업개발, 신월7동 1구역 재개발 단독 입찰 - 매일경제TV
+- Category: 재건축·재개발
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발, 신월7동 1구역 재개발 단독 입찰 - 매일경제TV
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lSzVkTnpJUUQ3WkNyYjJ1SXVvakZsQ0xtMEhGcExsaFM0Y1hBWG1SVDFnWVJCN2ZoLVQ0ZzJQcEFLZjN4YTN2ZXc1X1dZV3kzbGFJM1pBOEExem1ndi1QdVNZQVhvWnhC?oc=5
+
+## 대방건설 - 대방건설, 계열사 대방산업개발에 186억원 자금대여 - 디지털투데이
+- Category: 기타
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대방건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대방건설, 계열사 대방산업개발에 186억원 자금대여 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5SY2p3V1FUSTJwZFhMR0VsR28xbGNWdVlCSDdUclMybjFzMmtSNVA0bGVhMy02ejBUSGxiUjVQQ1pqTUZWQXNhSUVCNWRCWjh0Q3VMM29RR2l4X2Izb2VtV0JOWnBXMmF4STdITFBPTXlpN2NhMVBuQ2Nacw?oc=5
+
+## HL디앤아이한라 - 건설사들, 동일 브랜드 아파트 후속 공급…주거단지 확대 - 데일리한국
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: HL디앤아이한라 관련 유사 기사 1건이 수집됨. 대표 기사: 건설사들, 동일 브랜드 아파트 후속 공급…주거단지 확대 - 데일리한국
+
+https://news.google.com/rss/articles/CBMib0FVX3lxTE96Q0Z5WFlueGFSa21xQ1JEVURCVGl1b2p4ZzUtTU1ORHRBVnVCNDdCOF9mSjBkX3hMeDJjSE5pNGExZVlqYkFJUUhYSjZDcXc5Y1JsbHBtN0xBalFOZ3RqWUx5VVBrdW01S2Q0VWRGUdIBc0FVX3lxTE9zakMxcGwzU2VVTWNpemVxR3l4bVhKWGpVOHM5aUhkTTB4dTZvT3YtTjJZVWpKdmVfdlFVR3lBM05RcGx2cE1PQzJDaUZlMU1qNEZOYURpNlBaTHVvOE15dngtTmQtNGdycFBhc3hQbnNmVzQ?oc=5
+
+## HL디앤아이한라 - HL디앤아이한라, 자기자본 87% 맞먹는 5000억원 ‘PF 보증’…우발채무 부담 커지나 - 비즈중앙
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: HL디앤아이한라 관련 유사 기사 1건이 수집됨. 대표 기사: HL디앤아이한라, 자기자본 87% 맞먹는 5000억원 ‘PF 보증’…우발채무 부담 커지나 - 비즈중앙
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSEJWdFpyMjg0R0JvelNzanZPT213OHU5a05VTXpIUG9qVDd2YlVlRVBSaWlLV0U1aE1wSmVISXQwUDMyc2lPZW5FS1lZRW5FRWhlLVhXcGNhVXBNTEs4a0Jtd3EwNzNyWHlpbkp5dXg?oc=5
+
+## 동부건설 - 경복대학교, '2027 대한민국 미래 건축문화대상' 수상⋯학교 중 유일 - 조이뉴스24
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: 경복대학교, '2027 대한민국 미래 건축문화대상' 수상⋯학교 중 유일 - 조이뉴스24
+
+https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hbVlKcG50RDB6U3NCekRDSGFYcUI2STFFbkl6UE9FN004ODFnY1JYRUtZRXlKcE9fNXBhMVNoZjEyQW1hUml4dkJNSlJjN2c?oc=5
+
+## 동부건설 - 경복대 남양주캠퍼스, '2027 대한민국 미래 건축문화대상' 학교시설 부문 대상 수상 - 컨슈머타임스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: 경복대 남양주캠퍼스, '2027 대한민국 미래 건축문화대상' 학교시설 부문 대상 수상 - 컨슈머타임스
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTFZZT2FUT0c1LXdFRWVNWnVNNF9XTzFGSWUyYWFoaUFtanBvcC1lOU5qcTF1Skd2NHJZY3NPQ01Za3pyXzRyZjZGeFl0Z3poRm82YjZaNDdWdzZVM2pWaE5WcHBqblNuY3c?oc=5
+
+## 동부건설 - 불암산 아래 1만 가구…속도 내는 상계뉴타운 - 한국경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: 불암산 아래 1만 가구…속도 내는 상계뉴타운 - 한국경제
+
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qYWs4WXR1dTZYZzNjTERTNGZPT3NCbzhSTkgyQlFRZ3pPQWNwS2RkT0EyX2NhajJhSEctY1hnUWdBTFhxNzFSNDR5NTdkRGZPcXF0dnFWUzVZQQ?oc=5
+
+## 동부건설 - [건설플러스] SGC E&C, PSK 용인 캠퍼스 신축 수주 外 - DealSite경제TV
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 동부건설 관련 유사 기사 1건이 수집됨. 대표 기사: [건설플러스] SGC E&C, PSK 용인 캠퍼스 신축 수주 外 - DealSite경제TV
+
+https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ySGdERHRQTW1OYjhUTnNiQ3lxMm5Cbnp0UXJUb0FISndZS3hLZ1VsY01HYlJBNndObGVvTVlOWUR6QXlPTFJuZ1NPeVdsalRtVG5hRUR3?oc=5
+
+## 한신공영 - 한신공영, 1495억원 규모 공급계약 체결 - 데이터투자
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한신공영 관련 유사 기사 1건이 수집됨. 대표 기사: 한신공영, 1495억원 규모 공급계약 체결 - 데이터투자
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE9SZnVoVzhOeHA3MktzSlhrWjVDVzF0bWxrVDMtUVlPUUJhX3otZzEzUmg5Q0hheUd5NW5KQWhncnFQbHdZdjUyeGxjZHJsUEd5aGZyTjhKaHlmWFF2aFpyN1JOWjF2dGQtYnRZUzg3eUhmOUU?oc=5
+
+## 한신공영 - [종목 브리핑] 한신공영, 금천구 정비사업 767억원 계약 - 비건뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한신공영 관련 유사 기사 1건이 수집됨. 대표 기사: [종목 브리핑] 한신공영, 금천구 정비사업 767억원 계약 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSTlLajhvZm5sSFBiRkdGNkgzeC1aZEhUbEpaNEphT3BrdzhNRHFtZzk4YmM3ZU5ydl81V3JZUmxLZ3lUYkpKT0pTZnNSLVdWbi12a21vVmpuYXpWemo3MU5MNW5qQQ?oc=5
+
+## 한신공영 - 한신공영, 1495억6083만원 규모 시흥1동 가로주택정비사업 공사 수주 - 디지털투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 한신공영 관련 유사 기사 1건이 수집됨. 대표 기사: 한신공영, 1495억6083만원 규모 시흥1동 가로주택정비사업 공사 수주 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5YVWNrdEJmNklSODhwXy1ZV3l0WWlaU3RhVkdySmJKYlY0d1BsMmpCTXRZVllZV1dqNTljOXRTUFRwYUpPV0YyM2hYeFZza1hNMGpTb2JDUjEzUXBQZTFCSkZpdkNtUFJMSi1ta3lwQURuZGNkUC1wTE05bw?oc=5
+
+## 한신공영 - 한신공영, 27일 ‘고양 한신더휴 퍼스트원’ 견본주택 개관 - 팝콘뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한신공영 관련 유사 기사 1건이 수집됨. 대표 기사: 한신공영, 27일 ‘고양 한신더휴 퍼스트원’ 견본주택 개관 - 팝콘뉴스
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5mdnE4dTJSblR5VE1PcXZXcEQ3Q0NGbWlYS3prck1HZE1Uenh2WThrQTRPTEJvRWhXMW44aG54elVkTDYzVkdOY1N1NW5mS1A1OVhvaU9QbkxOekxTcFJma1E5OTNXdGszN3dBdDF30gFyQVVfeXFMTUdLTkE2RGgxYVdCUjRFXzJEY25FTGFOcGpSR011czFTM3NWUGhNbmR0NzNDOU9IZHNLNWJfRkR2X3QzelpXaEctRWsyeWZrNWhQYlpPMXpOd0p1UVRZNlJQbFpYMUprUnJSMFpoYlFFNWtn?oc=5
+
+## 금호건설 - 금호건설, LH 평택고덕 공공주택 2235억원 계약 - 비건뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 금호건설, LH 평택고덕 공공주택 2235억원 계약 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PSWRZY0wtckEyamhySEdVN2pUWVFVNHo2X1NVTVNoQmNGNFRITVVJT0VHd0M1a0ZRYzlmUGZVaWJuZzZxYzRmWXZHR3lSVzRKa195STlwNm1YOFFNVzQ5SmhZNU92S1hy?oc=5
+
+## 금호건설 - 금호건설, 한국토지주택공사와 2234억9373만원 규모 공공주택 건설 계약 체결 - 디지털투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 금호건설, 한국토지주택공사와 2234억9373만원 규모 공공주택 건설 계약 체결 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE95amNBVVRJeG5EUlkzTUZ4VTJzZ3R3UGZwU1JXMzlidjdOdUF4cnRqelZLbUtqdVBVVGdKT2NzWnQxcTU1WVAtTVZCNFVlMklCQm5QVGFJMlV5ZTJuQ01halJxY0FMZ0FualA1dkgzSy1TX05BSnU3cHRTdw?oc=5
+
+## 금호건설 - 금호건설 수주공시 - 평택고덕 A-72BL 및 A-73BL 통합형 민간참여 공공주택 건설사업 2,234.9억원 (매출액대비 11.07 %) - ThinkPool
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 금호건설 수주공시 - 평택고덕 A-72BL 및 A-73BL 통합형 민간참여 공공주택 건설사업 2,234.9억원 (매출액대비 11.07 %) - ThinkPool
+
+https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1eFRkVE1CeE5uNGR0TlVydHU5OWZFUGwyWkt0dEpKcHNwdVBVZmZVcnl6OXRkUXM3cFFKdTJWdnliVWFKcXR5aWZaVm9GTjZ2TFB1MA?oc=5
+
+## 금호건설 - 평택고덕 1295세대 짓는다…금호건설 2234억 수주 - 연합투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 평택고덕 1295세대 짓는다…금호건설 2234억 수주 - 연합투데이
+
+https://news.google.com/rss/articles/CBMib0FVX3lxTE9BeFp0cmV6dTAtMmxtOTctWTM3UWtqZ2lnQnlCVTItRmVjVHpERmQ1T0xMaFNYS0l4ZGxMdmxORXZMcUQwbmt4cGZuVU1zYVJfQ2RZS3pSbzdRUExDR0RSWm5yaE5GZVRjQUl5cV93ONIBb0FVX3lxTE9BeFp0cmV6dTAtMmxtOTctWTM3UWtqZ2lnQnlCVTItRmVjVHpERmQ1T0xMaFNYS0l4ZGxMdmxORXZMcUQwbmt4cGZuVU1zYVJfQ2RZS3pSbzdRUExDR0RSWm5yaE5GZVRjQUl5cV93OA?oc=5
+
+## 금호건설 - 금호건설 수주 2234억원, 매출 대비 11.07% - 데일리인베스트
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 금호건설 관련 유사 기사 1건이 수집됨. 대표 기사: 금호건설 수주 2234억원, 매출 대비 11.07% - 데일리인베스트
+
+https://news.google.com/rss/articles/CBMib0FVX3lxTE0zb2JoMjZvdlhXVGFlVlZySlBkNzNQUkZra0RIdXd4YU80cnN5VlFWTDlZbzhsc2c4UzlNZWFGYm1ZQzZhcHktdlBKcjdEVmFmUDdncjFzMXdKMlJHaEZFSHJuQWh4VjNtSDFaZzlKa9IBb0FVX3lxTE0zb2JoMjZvdlhXVGFlVlZySlBkNzNQUkZra0RIdXd4YU80cnN5VlFWTDlZbzhsc2c4UzlNZWFGYm1ZQzZhcHktdlBKcjdEVmFmUDdncjFzMXdKMlJHaEZFSHJuQWh4VjNtSDFaZzlKaw?oc=5
+
+## KCC건설 - KCC건설, 1436억2200만원 규모 부천 NH물류센터 신축공사 수주 - 디지털투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: KCC건설 관련 유사 기사 1건이 수집됨. 대표 기사: KCC건설, 1436억2200만원 규모 부천 NH물류센터 신축공사 수주 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE16Wm5kckpubk5jNEk1b1JyZGlVQXNpeENPUmJ4U010NWthWVdXejB6YnNoRVp4cmRCcmxROEFfNEMyOFN0aWQ1ekpjSlBEZUZUeFlZcUVaNWh6RUNESVhqTUVCd1dEMDNPbEVWOFJDZnVNcnRCLWxvaGtoYw?oc=5
+
+## 태영건설 - GSㆍ롯데건설, 평택지제 차량기지 발 빼나 ‘촉각’ - 대한경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 태영건설 관련 유사 기사 1건이 수집됨. 대표 기사: GSㆍ롯데건설, 평택지제 차량기지 발 빼나 ‘촉각’ - 대한경제
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE40QU9iSlh3SnprZm9EWkRJQnpGdkpvb1c4dC1YRTQ1WTRTTTE1d2s2QUpyWXZnNkJWRzVjNU9Va05aaEpzWnJObDZ3a25uWUVZc2wzWHVaMERyN24ydFVnRG9DR0drc1VqQXBmV3JJV2FyMTQ?oc=5
+
+## 태영건설 - 태영건설 건설사업 채무보증 7조1882억원 - 비건뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 태영건설 관련 유사 기사 1건이 수집됨. 대표 기사: 태영건설 건설사업 채무보증 7조1882억원 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1QkxZbFdQMHVsdTc0V1BmOVpuNW9jbW5zeURyZXUwb2dRYnNBUnNST2xIU3FTS1lZa0Z1Uzh2UkViM1o3Q0dQczJEcWo5VFN2YzlVRFM5MlBWNkhqNm9BbGVyeEV6QQ?oc=5
+
+## 코오롱글로벌 - 다음 달 2만4000가구 분양 나선다…‘청약 대어’ 디에이치 반포124도 출격 - 조선일보
+- Category: 분양
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 다음 달 2만4000가구 분양 나선다…‘청약 대어’ 디에이치 반포124도 출격 - 조선일보
+
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzdtQldUd29Nd1licGY2a1dDTFRwMURmYUdxckR2NG1xdGNUMDlKU0JHSFZkX2FnOUJ0MUwzU3NTV08xTm4yRHpXUXBvbUg4SENfT1Buc0lzSjgzVnBaU3NBMTRfYzBhZkdCT2M4cUlBbTJ3WUxVYXh0YUxtbzRRaUtoTnhtMjJn?oc=5
+
+## 코오롱글로벌 - 12월 전국 2만4018가구 일반분양…작년보다 30.9% 늘어 - 한국건설경제뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 12월 전국 2만4018가구 일반분양…작년보다 30.9% 늘어 - 한국건설경제뉴스
+
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SeHdtdjh3emZ4SEVYblBQSk5KRmNYMU5rcmRrRFlMMkZkM2o0eWlYSnBQekdwbkFicDVvLXd1SFpONUNqZnBwckNoVERiSUpidnZsQ0VJY2NYV2NrNnRR0gFuQVVfeXFMT2hsSVlfazhHUGJsdllzT0V4Vm5BSW1meXhfQzJnVy1pQzZxTWxUYV84RmdpczJMVy1GclRPTlZEM1FtQUlQd3ozS2Z5SjNzQUxjY0xmb0w4aHRFZGRDZDdvSG1wZUNtN0sxZ2NqblE?oc=5
+
+## 코오롱글로벌 - 코오롱글로벌 페테토, 투명 배변통 적용한 고양이 자동화장실 출시 - 디스커버리뉴스(DISCOVERYNEWS)
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 코오롱글로벌 페테토, 투명 배변통 적용한 고양이 자동화장실 출시 - 디스커버리뉴스(DISCOVERYNEWS)
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE5fMWdPTk0zYnNzcUwzSm1KaWszTE1SYkx2dU9xaDNXTE5RTmZYNjdMc3RUZ2dicEZZWmVKWkVWcDdybmdLWS16UXQ0VzZTYzhxTTljblRmdHI0UFlCOTBka3hnenp2Zm5PeTJLX2FEUFU1dw?oc=5
+
+## 코오롱글로벌 - 코오롱글로벌, 머크 대전 공사기간 재협의 - 비건뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 코오롱글로벌 관련 유사 기사 1건이 수집됨. 대표 기사: 코오롱글로벌, 머크 대전 공사기간 재협의 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnYzl1M1hSbkxvaG90cmZ3dU80XzU2bUtlMVBmZGsxLUhYOW8ybmVBQjdwSURWZlBQNTY0MmdXVTVRZktBWnV0eTlkc1FoUUpnNWVJc1NEQ2dsMnBtWWRYWmdMSWFLdw?oc=5
+
+## 제일건설 - [분양소식] 포스코이앤씨·대우건설 컨소시엄, 12월 전용 84㎡ 분양·청약 돌입...임대부터 오피스텔까지 - 데일리팝
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 제일건설 관련 유사 기사 1건이 수집됨. 대표 기사: [분양소식] 포스코이앤씨·대우건설 컨소시엄, 12월 전용 84㎡ 분양·청약 돌입...임대부터 오피스텔까지 - 데일리팝
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1rSUpMQ0xMdmd5VUVXbTVHUHk2d1RGV1I2MW9VWHMxdXB6MFZLdWdyWHpaOU9mZXI3SFpZX1dLRkIxSFk5TnJLVmVON3FSczZOTmQwMnlkeEY5eEVONmRFYS15eDc3dTJpUVE?oc=5
+
+## 제일건설 - 건설사 몰리는 ‘목동 재건축’…분담금 유예에 사업비 이자 지원까지 - 쿠키뉴스
+- Category: 재건축·재개발
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 제일건설 관련 유사 기사 1건이 수집됨. 대표 기사: 건설사 몰리는 ‘목동 재건축’…분담금 유예에 사업비 이자 지원까지 - 쿠키뉴스
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GMUtDYVBvRUE3Y2Mtci1ZRjRtN09ZQWVkV2NFZ05wZkVGUmUzbWhoaE82RWlfbVNYWE14Y0FMZGl4R3FUdF9ycFpZNmJIbXc5RjVWY19ycWFrYW9lanFVTkdydw?oc=5
+
+## 서희건설 - 서희건설, 동대문구 손해배상 소송 1심 승소···법적 분쟁 첫 고비 넘겨 - 증권경제신문
+- Category: 소송·제재
+- Sentiment: 부정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 서희건설 관련 유사 기사 1건이 수집됨. 대표 기사: 서희건설, 동대문구 손해배상 소송 1심 승소···법적 분쟁 첫 고비 넘겨 - 증권경제신문
+
+https://news.google.com/rss/articles/CBMidkFVX3lxTE5fdVlOOGxXazlVZXVRcXpib2VGZkVRSkotd2dCeUdSc3JOWjNxX21UNU1VZXMtRXJmbUNkblFTZFBlRTE3Wm1rRF9GWEM0RTlwYnhxXzF4X0dIYllpR21HSVRjRDc0LW5FckxNTDNaRnNPLVZQOXfSAXZBVV95cUxOX3VZTjhsV2s5VWV1UXF6Ym9lRmZFUUpKLXdnQnlHUnNyTlozcV9tVDVNVWVzLUVyZm1DZG5RU2RQZUUxN1pta0RfRlhDNEU5cGJ4cV8xeF9HSGJZaUdtR0lUY0Q3NC1uRXJMTUwzWkZzTy1WUDl3?oc=5
+
+## 서희건설 - 서희건설, 평택진위 잔금대출 1300억원에 1690억원 보증 - 비건뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 서희건설 관련 유사 기사 1건이 수집됨. 대표 기사: 서희건설, 평택진위 잔금대출 1300억원에 1690억원 보증 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUX0xVanVIVzN0X0p0dndRck42cW8yMWlDbm9pZW1wcjNOb2lwTjZiQnhkVUpPMmhtSVJxY3o2di1DblRhSF9wcFFsTmdfOWpVM1hlU1dJVEU3MTJZdVB1R2NldGszdw?oc=5
+
+## 서희건설 - 서희건설, 평택엘지로서희제일차에 1690억원 채무보증 결정 - 디지털투데이
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 서희건설 관련 유사 기사 1건이 수집됨. 대표 기사: 서희건설, 평택엘지로서희제일차에 1690억원 채무보증 결정 - 디지털투데이
+
+https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQTFKdFpyX29aT2hhTFRNWndlbTNERzBVTDFCeEtTYThud2M4WVR5a2xkbmtsVTcyVWdNeS13TmN4OUFkNnd5OVBQVFc3UV8tTzNaSXBrNl9OMy1Ca3FSMDhHYzhCeW9JbFJ0UmtJbkJIQXVvWTd5LUJsUQ?oc=5
+
+## 계룡건설산업 - 세종 '국책연구단지 2청사' 공사 27일 시작됐다 - 메트로세종
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 계룡건설산업 관련 유사 기사 1건이 수집됨. 대표 기사: 세종 '국책연구단지 2청사' 공사 27일 시작됐다 - 메트로세종
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQnExRDNyWlFJVjN3ejJSdUp0TlN3ajlhbXRLYUg4dDZlc0wwWk11YWpob1VGbUlOS3hRLUJzWnQyd0h6c0JuNmdWV3ZGaHJ2alBhVTB3WEJNd2x5ZFAxM0ZIWVkySUNZZklVTNIBb0FVX3lxTE03OEZKU0x4ZV9HTEtPS2gyeFQ0eHN5NjJFT2JmQ1Z2Wml0R0oxMnhVRnRGVnhVMHRjZ3RqMXM5SXAwVThCcUw3bkI1Y0wyQmpJcWNIZHdQWVpvTW5MdktYZ0FpRDdkVDdUdFd5MjlKaw?oc=5
+
+## 계룡건설산업 - [종목 브리핑] 케이알서비스, 계룡건설산업 5만2824주 매수 - 비건뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 계룡건설산업 관련 유사 기사 1건이 수집됨. 대표 기사: [종목 브리핑] 케이알서비스, 계룡건설산업 5만2824주 매수 - 비건뉴스
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUG5lVnFQeGVsNVlOVGNiaUpkUnRhdmlmOXNMLWRxX3ZQV0NleXJadHF0SjI2ejE1d1hZMmZTQjNrYWNKN1BGTldlTWdOUXE0N1VKTHBFR2RiZGpJSVNOY0lSSkN3Zw?oc=5
+
+## 두산에너빌리티 - 체코 원전사업 일정 준수 재확인...한수원, 시공 후속계획 점검 - 수소신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 체코 원전사업 일정 준수 재확인...한수원, 시공 후속계획 점검 - 수소신문
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1mVE1pMEtQQ2luY2R5bV93QWJYcFZZeVFfeUVoa2EweXhzcHVJVGZFV1loSmhsTTh5TGxOMXpmLVpPR19FS1dVLWZUaHlPSjRqb0hkZlJPRkYzaVZXakV6RkhPVG1XOFg2VXdJNm0wWTnSAXRBVV95cUxQUmlVclI1SWFOZHdmZVNsQjhScTlYeUJhR1FRZVlWMDNSNFhnUzBpQjhIeDd5cjd2NE1veUw0ZnJibmtrZHd0NmF3SEZrQkI5UWZFMWcwOVl0R3JrVUlXbWMtMHFfVl9EMGx4aXBjeV92dG1ZUw?oc=5
+
+## 두산에너빌리티 - 두산에너빌리티, 영주 ‘트리븐 가흥’ 분양…12월 3일 1순위 청약 - 한국금융신문
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 두산에너빌리티, 영주 ‘트리븐 가흥’ 분양…12월 3일 1순위 청약 - 한국금융신문
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE42SG9CRlFpQ0pNeDZqZVhiQ205Z1QyaWhwd19LRV8yOUVtMHNBVTEzOXI5NE9EYWxyQlkxQkRnREtTOEppcHdCTmdNNzUydW41TU5fdmUwTEREMmN3a19ERGxmV2NkQnV0dnM3TmlRYUNhMVU?oc=5
+
+## 두산에너빌리티 - 美 발전소 건설러시…K전력기업, 220조원 '황금시장' 열린다 - 재외동포신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 美 발전소 건설러시…K전력기업, 220조원 '황금시장' 열린다 - 재외동포신문
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1POGZ3dlJZVEdHQ1NFTjRGblMtS3NpWnk5WlhYUnFtUkNIUFVqRVFPeGRWSHRqZGt3Qi1TOTU3dXlNNUw1MkNTSnBWeExhVUxhLUJnWFItV1dtbzQ0SmU3d3h0TUF3NlJSN0p6LQ?oc=5
+
+## 두산에너빌리티 - 원전부터 연료전지까지 돈 몰렸다…두산에너빌리티·두산퓨얼셀 매수 봇물 '솔솔' - 핀포인트뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 두산에너빌리티 관련 유사 기사 1건이 수집됨. 대표 기사: 원전부터 연료전지까지 돈 몰렸다…두산에너빌리티·두산퓨얼셀 매수 봇물 '솔솔' - 핀포인트뉴스
+
+https://news.google.com/rss/articles/CBMic0FVX3lxTE9lUFpSa2g1THFrbWhqQkw5M2oyelFKckJubU1PNFRKMXlkSmZfZVFSSzk4V1dzMTBkNUl6bUtxVzhCemdXSTNDVWF3ZVlSM2NfVnFtWVlSWEYwOW4xM1FyVThYbk45anlveTd4MjNXdXdCM2vSAXdBVV95cUxNcV93MTAtT3Y2MTZ4NkhTTVV1S2MyMW5ObWsxQ05UX3JUMGZVM1VSZlB5LXJwUmJqNjBqek1QZVBNemNqWlg1SFNna0Y2OXgtOTY2eURTUExLMDJtcUVld1cyQ0ppNkRBcnY5bjBCLXdFazcxb0JGaw?oc=5
+
+## 호반건설 - 호반건설, 벤처펀드 10억 출자약정 - 톱스타뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 호반건설 관련 유사 기사 1건이 수집됨. 대표 기사: 호반건설, 벤처펀드 10억 출자약정 - 톱스타뉴스
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE9MYUFUcktlS2h6d3UzbTh6Vm9VNW81S2UwbEYxYm14RTE0V2dvM1dGNUhMU05JaVFZUTVfaFdzQWFLSTVIeDJkV0ZiSGliZnhpN2FwRlpCMjNKWEplNXBEdkticnVCdU44UW45VUU4Z3FyZw?oc=5
+
+## 한화 - 지역난방공사·한화에너지, 집단에너지사업 상생협력 업무협약 체결 - 일렉트릭파워
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: 지역난방공사·한화에너지, 집단에너지사업 상생협력 업무협약 체결 - 일렉트릭파워
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE95aFRTZFpGcnVMRVg1LUQ5YkFzTWRTazRMSFZFSkhRbXN3ZkpTQ0paeUNWa3N2SFVKdG4wb3YtMG9RaHZSTTZoRFgxMG12SlA5REVUVTRScy1XdEE2YWVYWHljQy13Zw?oc=5
+
+## 한화 - "위험한 공정에 사람 없앤다"…한화에어로, 안전 쇄신 선포 - 티제이비
+- Category: 안전사고
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 한화 관련 유사 기사 1건이 수집됨. 대표 기사: "위험한 공정에 사람 없앤다"…한화에어로, 안전 쇄신 선포 - 티제이비
+
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE92WVJYX1dRc01KcEV3eThXSmd3cEYzd2dzLWVtUGJ3RkJZWVFqNGNpRUU1UDZJVzRodjlNa2dybEVGaW1sUDNlQVdaSUNxbmhzYjN2UWxRcXRudEx0X0F2dUNucw?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발 대표에 강민석…호텔·리조트는 조영환 - 코리아리포트
+- Category: 인사·조직
+- Sentiment: 긍정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발 대표에 강민석…호텔·리조트는 조영환 - 코리아리포트
+
+https://news.google.com/rss/articles/CBMicEFVX3lxTE5nSjJuMzlCM21SUWlUank1T05xVkNpNXBRN1FMeE5hUUFQVWk5WWh5Q0xuNDRab3IxX3Y4RV9XNlhUQ0kxRGQwOHFhdUkwTGhaaXhJd3pUbHF0VGhxZlJEMXB5MzNzLWFxQlFfelJ5QlY?oc=5
+
+## HDC현대산업개발 - HDC그룹·IPARK현대산업개발, 2027년 조직개편 및 정기인사 단행·노원구 겨울맞이 김장 나눔 봉사활동 진행 - 여성소비자신문
+- Category: 인사·조직
+- Sentiment: 긍정
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: HDC그룹·IPARK현대산업개발, 2027년 조직개편 및 정기인사 단행·노원구 겨울맞이 김장 나눔 봉사활동 진행 - 여성소비자신문
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IRHgxdUd6QUVfVTUwVlZQUWY5ek42S1ZreFJ1Y2RBQWVQc1lkNlFBZGIzM0hFLWxqbWlrQ2d6YUpZRWtjeWp4MVR1Zy1GV1FCU282azlZQmlDVWJhMmtVdDRjMHNPQQ?oc=5
+
+## HDC현대산업개발 - IPARK현대산업개발 신임 대표이사에 강민석 부사장 선임 - 서울경제TV
+- Category: 인사·조직
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: IPARK현대산업개발 신임 대표이사에 강민석 부사장 선임 - 서울경제TV
+
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ueFdjZ2ZoUG9zUHh4VFlaSlR2VUVqNTNWd0JkMFBPRTdNSFQ2M1RwWkFob3A5Y1Q4SEtPOXdNaXpLTGh1OEhjSkp0Y2FYNDc1QjhTT2EzQTRQUVJSTmZIQkRUcGg?oc=5
+
+## HDC현대산업개발 - HDC그룹, 2027년 정기 임원인사…IPARK현대산업개발 대표에 강민석 부사장 - 뉴스엔뷰
+- Category: 인사·조직
+- Sentiment: 긍정
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: HDC현대산업개발 관련 유사 기사 1건이 수집됨. 대표 기사: HDC그룹, 2027년 정기 임원인사…IPARK현대산업개발 대표에 강민석 부사장 - 뉴스엔뷰
+
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDVDlxQUZOMXFMMkZvYUJzdmxSOW54U3ROXzVyQkt6SVowM0FOb1ByRlBpQ0FRRzE1dEhYbHRhRDZScUlUdlNDTFJ5Y19NYkwwaENfd1BKcVFoVWRYakJYNkV0dVE?oc=5
+
+## 롯데건설 - [카드] '시슐랭 스타' 롯데건설 러브하우스, 거제 아동보육시설 개보수 지원 - 프라임경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 롯데건설 관련 유사 기사 1건이 수집됨. 대표 기사: [카드] '시슐랭 스타' 롯데건설 러브하우스, 거제 아동보육시설 개보수 지원 - 프라임경제
+
+https://news.google.com/rss/articles/CBMickFVX3lxTE41ekl5YmJhQ3ZWYjcyalNWWENhM2dEVzJQNEU0ckROaDJ3TEd5RVEzTG5CYlB1TXJoTHNYajduRFVkQXVMd0VhS3Q3REI0dXhWVEFNeXlJbGVzM2I0YjI1U3dwOEpSZGV3M0VPdkU1bVdCQQ?oc=5
+
+## 롯데건설 - 롯데건설·한샘·주택금융공사, 주거환경 개선으로 사회공헌 실천…공간에 희망 더한다 - 나눔경제뉴스
+- Category: ESG
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 롯데건설 관련 유사 기사 1건이 수집됨. 대표 기사: 롯데건설·한샘·주택금융공사, 주거환경 개선으로 사회공헌 실천…공간에 희망 더한다 - 나눔경제뉴스
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Qzczcjh3VV9HVzR2RVNSNWFUVS0xOW53NURCTjFqbUVfQ2ltRG42ZUEyQ2tVSW1XUERBak5EUUdhWkpzN1N0cG9BeHFSS2EtVEFWQzZRc2t0c1pNR2d6bHNPMW5Va1Y4ZXpsTQ?oc=5
+
+## 포스코이앤씨 - 주택 넘어 에너지·리튬으로...포스코이앤씨, 플랜트 영토 넓힌다 - 팝콘뉴스
+- Category: 해외사업
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 주택 넘어 에너지·리튬으로...포스코이앤씨, 플랜트 영토 넓힌다 - 팝콘뉴스
+
+https://news.google.com/rss/articles/CBMickFVX3lxTFBUclZLZlRuSWhXUkVJR1QwMTNqNTdibTZrMllOLVgydlRuWHpCRE45OTE0b1hXZE9GMTZCY1pCNXlZME1ldHllckdLZFZyd3BPS2s2TmlBanFaa3pGNEFKNm9BcWM5eFZPU1pRaldOeWc0Z9IBckFVX3lxTFBUclZLZlRuSWhXUkVJR1QwMTNqNTdibTZrMllOLVgydlRuWHpCRE45OTE0b1hXZE9GMTZCY1pCNXlZME1ldHllckdLZFZyd3BPS2s2TmlBanFaa3pGNEFKNm9BcWM5eFZPU1pRaldOeWc0Zw?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨, ‘더샵 퍼스트월드 서울’ 오피스텔 견본주택 11월 27일 개관…본격 분양 시작 - 주간현대
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨, ‘더샵 퍼스트월드 서울’ 오피스텔 견본주택 11월 27일 개관…본격 분양 시작 - 주간현대
+
+https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNd3pGMlNYTkwxc0Q4TXJNT1ZGMjJPajV1dUZsQU12VVljMkxGMVRidk1MNjZyTzlwSWtlVjkydjN0eUU?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨 ‘더샵 퍼스트월드 서울’…대단지 홍보 이면엔 “커뮤니티·전매 제한” - 위메이크뉴스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨 ‘더샵 퍼스트월드 서울’…대단지 홍보 이면엔 “커뮤니티·전매 제한” - 위메이크뉴스
+
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mLXp1UFpDUS1tVmhBNlJNNm9RVlpya3hWVEFUbnFUYVNVMFhXQU93RWV5SlhIUDZNLWVneDNpdXR1M2tJNV9OSmIxY2JidmZrTTI2WGNhTldPMVE?oc=5
+
+## 포스코이앤씨 - [분양] 포스코이앤씨, ‘더샵 일산센트로’ 27일 견본주택 개관 - 수도권지역뉴스
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: [분양] 포스코이앤씨, ‘더샵 일산센트로’ 27일 견본주택 개관 - 수도권지역뉴스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdkZXQTExVW1ZWlg1NlNjZDRBdkxxNU5KXzVkVjBxYWFWVVdiRFJVWE1mQ2dURlduNkFHSnRTVkcxNHFhU2ZHT0pfU1pOaUVmLW5IWHkyUFVWRk4tS1I3dmZTNm5BbndL?oc=5
+
+## 포스코이앤씨 - 포스코이앤씨, AI로 건설현장 바꾼다…품질·안전·업무 자동화 확대 - 뉴스1
+- Category: 안전사고
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 포스코이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: 포스코이앤씨, AI로 건설현장 바꾼다…품질·안전·업무 자동화 확대 - 뉴스1
+
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aR2dBVk5HVVU2bzNUbm1DVU9kb25vdnJYY2dzLVNfX01tVi1uVEVjVEVTWm5NU3hDZHJDeEpsN2FXdVlCdjBweE5HQ3A2OW9KVlJfaVNKSVVSSGM?oc=5
+
+## 현대엔지니어링 - 현대엔지니어링 나태준 대표 과제는 - SR타임스
+- Category: 인사·조직
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 현대엔지니어링 나태준 대표 과제는 - SR타임스
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTEltVlJGU1BGUi1xTUVlb0tLamRVZ2RwamlBS3BkUkJabDllSFRvMnFfd0NQSG1OdlNhVWVYcDRzWkpyRFdwZUlRUHlCbzdDS0QzbjhBdE1Qd3NKelBlTkgwMF9QQnNY0gFrQVVfeXFMUG9OTUFYU1hWZFcwalJ2dDEzdnRVeDZkMUVuTGtZM1A0UzVmX0gwOEdBRkV3Z0tXRTVZY09IZXEtX29tMUcwWkdFcUE3TlBKRkEyRWZJSFdPM3dTYUR6TjEzZ0hOS0x3WG03SW8?oc=5
+
+## 현대엔지니어링 - 현대건설·현대엔지니어링 공사 관련 채무보증 48조원…석 달 새 3.2조원 증가 - 센트럴경제
+- Category: 기타
+- Sentiment: 중립
+- Importance: 5 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설·현대엔지니어링 공사 관련 채무보증 48조원…석 달 새 3.2조원 증가 - 센트럴경제
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbHljTTRJNU51eHI2RUR2aF9iTU5kbVg3aC1wOGNGemdOSUZsNjMtdHk1eDVzVXUtbkRERzItX041MGFKN0JmWDdJY2NzZ1JBOXYwQ1EtVmR0MUUtaE5GZW5QT1FUd9IBakFVX3lxTE1xanFLVHBPaWFOdXFHQ3NzRHlRcy00OXg0QUdzMk9BUjA0MWtsVW9GSUpOdDV1N3NLeTE3dXRSMUlHa2Y2V2xBYmpiWHJETTRLUVRzZXdQaEQ4Q1R5cVlGdHU2ME5pa3RURXc?oc=5
+
+## 현대엔지니어링 - ‘재무위기 수습’ 현대엔지니어링...대표 교체 카드로 ‘수주 경쟁력’ 복원할까 - 팝콘뉴스
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: ‘재무위기 수습’ 현대엔지니어링...대표 교체 카드로 ‘수주 경쟁력’ 복원할까 - 팝콘뉴스
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9kWU80RHFiSzBDRmcwX09vY2hOc1diTDZnWF9sTFByalF3V3p6dzhibFBiX2c4Ym52ODBkSUo4ZU9NdzR5bk5lVHFJWUw0MFdmMjlmbTFiUHQtM0g5M2xkMkliSEZrM3NaUTBOTGpR0gFyQVVfeXFMTWVmdFFuQ2NBZHBQLVJjQ3daVFQ1NHBWM3BqR3h1YU1TVE9uRm81aHB6Uy1oOFZCd1E5dzhoWS01SXJZcEVUTWFuclF6bE1kYjBBTWU2Y1RaU1ZydlhQdzJXNXVqaHhhSzdxNkN3M1FMYW1n?oc=5
+
+## 현대엔지니어링 - 현대엔지니어링 새 대표에 나태준…건축사업본부장서 부사장 승진 - 머니투데이 - 머니투데이
+- Category: 인사·조직
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대엔지니어링 관련 유사 기사 1건이 수집됨. 대표 기사: 현대엔지니어링 새 대표에 나태준…건축사업본부장서 부사장 승진 - 머니투데이 - 머니투데이
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1uMmZCaXNFdE0tZFdWX201d3ZNUVhONFVzTVBlWTRaWGdsMzRKT1AtenVVQU1pMEVIT2NnbUx2Sm0ydHAtM2pfRjU3XzdiSzZ3TlJyYkVSVmppRGdGYW83ZnZ4RFZCcU1la3fSAW9BVV95cUxPaS1LQ3JUZ1E5WHk3Yk1NbG1vWDFaX2RaTzdsRnMxem9odUsxZkgyOG5qQ1FlWXpJWHYzRDRuTTVNRjdOY3ZMajZYdjNEcFhJelZuVEtJVk5kY19JUi1tM0tuX19MUlF6SmZ0YVVwWFU?oc=5
+
+## GS건설 - GS건설 견본주택 진화, 상담 넘어 주거 체험 "고객 중심 공간 재편" - 프라임경제
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: GS건설 견본주택 진화, 상담 넘어 주거 체험 "고객 중심 공간 재편" - 프라임경제
+
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yRjBTNWZrdy1mUmQzendBSDlydEJZb01VN3k0dHVzb1cyMVltSEtfUHdjZk9mdE9YaktxNjUyb1YtNTB4OURfeHoxSU42Tmc0NjFBYXFRcXAtdGVwTkxST29IVTlYZw?oc=5
+
+## GS건설 - GS건설, 견본주택 '체험형 하우징 갤러리'로 탈바꿈...예술 감상 체험 - 뉴스핌
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: GS건설, 견본주택 '체험형 하우징 갤러리'로 탈바꿈...예술 감상 체험 - 뉴스핌
+
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEbkptblk0bFFjZVUwdVRCbWs1c01PeTEtY1k5NGZ2SlM0ZDNaQTEtSUJuNHEybGFRUHdBR0s0QkRvcFpOSTJ6RldjYzZoX0RaTV9mQ0Q2c1VtdVIx?oc=5
+
+## GS건설 - GS건설, 견본주택의 변신…예술·문화 즐기는 주거 체험 공간으로 - The PR 더피알
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: GS건설, 견본주택의 변신…예술·문화 즐기는 주거 체험 공간으로 - The PR 더피알
+
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ub0RlRUFKQ0JNZnhBckNwcFc0Ulo3OGIyd0FHaW9qb2dSODBpVUI1OGFUQ2dGemdEeUNDY3llNkoyVHJhdVp1eGVtMnNpTWtWLXBhaG5oVG5wczgxVkhjaUN0SHhvemVrVWfSAW5BVV95cUxNd2psSzJNZmNFYnpnRjZQb3VlanBiMC1ocjN1bmFkNGRPZkxGanViZVU5Wm1XVVkyRFFMM3RqUWltU1FzZF9iUjU3ZzZyYzNzRmhqTlBvazJYMDFPMTZVcjdWLUNTUGhEemFpcVk1QQ?oc=5
+
+## GS건설 - GS건설, 자이 견본주택 '체험형 하우징 갤러리'로 전환 추진 - 인사이트코리아
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: GS건설, 자이 견본주택 '체험형 하우징 갤러리'로 전환 추진 - 인사이트코리아
+
+https://news.google.com/rss/articles/CBMid0FVX3lxTFBLVkcxUTJCNkpqakE1cjBNSklHSmJtemhzU2FFX09Ka2lkWjFvMlBWdzBiUFNHWTZ0Y2ctWkxESXItb0xmVVF0Rm5laTlhT3NZZzIxaFdiU3AzSjZ0VTJCZFYxV29vVUFGLVY0am1aYVNXaHlDWVN30gF3QVVfeXFMUEtWRzFRMkI2SmpqQTVyME1KSUdKYm16aHNTYUVfT0praWRaMW8yUFZ3MGJQU0dZNnRjZy1aTERJci1vTGZVUXRGbmVpOWFPc1lnMjFoV2JTcDNKNnRVMkJkVjFXb29VQUYtVjRqbVphU1doeUNZU3c?oc=5
+
+## GS건설 - "GS건설 견본주택, 체험형 하우징 갤러리로 진화한다" - 한국NGO신문
+- Category: 분양
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: GS건설 관련 유사 기사 1건이 수집됨. 대표 기사: "GS건설 견본주택, 체험형 하우징 갤러리로 진화한다" - 한국NGO신문
+
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SXMtb1Q4V1FQV0Z6dTl6NzZfVEJBWjlVYk9PbGRzNUdYb3lyeUFSemt1VTFjdjVUb2tySzAySnRCSDdoNVRpU2Y5blB5dFZ6VzVzR0JJR1VqRFlRZExhcmVBcVU4a2Ra?oc=5
+
+## DL이앤씨 - DL이앤씨, 평택고덕 1995세대 수주…LH와 2163억 계약 - 경제투데이
+- Category: 수주
+- Sentiment: 긍정
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: DL이앤씨 관련 유사 기사 1건이 수집됨. 대표 기사: DL이앤씨, 평택고덕 1995세대 수주…LH와 2163억 계약 - 경제투데이
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTE5IOUxqaklQeVkwQnFvaXVuZmphTldrWGdHb2hvR3VtYk4tWU00WU1ja2lfcldKUll3cS1kNTJURkROMk9YQkJLV1Z0U2Q5cExYbFl3QlQ4RWVGcm5nSDN6aUVEckd0NnlYV2xF0gFrQVVfeXFMTkg5TGpqSVB5WTBCcW9pdW5mamFOV2tYZ0dvaG9HdW1iTi1ZTTRZTWNraV9yV0pSWXdxLWQ1MlRGRE4yT1hCQktXVnRTZDlwTFhsWXdCVDhFZUZybmdIM3ppRURyR3Q2eVhXbEU?oc=5
+
+## 대우건설 - 대우건설, 김포 고촌 한강변에 2,432세대 ‘한강 푸르지오 리버프론트’ 공급 - 패트론타임스
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설, 김포 고촌 한강변에 2,432세대 ‘한강 푸르지오 리버프론트’ 공급 - 패트론타임스
+
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE41dkFaOWZzWTVZVjFiSkhwWHZPMU1fNkdpbmFJMEtuaVFIZ3c5b19hWVJWWGRmVkE3ejJIMmtBa2VFVE1WVEFpODFCM1JNQlFKLWI4?oc=5
+
+## 대우건설 - 대우건설, '괴정역 푸르지오 더 센트럴' 12월 분양 - 아시아타임즈
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설, '괴정역 푸르지오 더 센트럴' 12월 분양 - 아시아타임즈
+
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZU2NuQ0xWZGo1bGlMclk0VW5JbFpucC1aYjdscXR4UVM3aE51YTRRcEZDTVRHSEQ0RFhYdGFzN052cXhUemVaVkVtOW1FNk92SkZRM1pfSDJWaUNWaXc?oc=5
+
+## 대우건설 - 대우건설, 12월 부산 사하 ‘괴정역 푸르지오 더 센트럴’ 분양 - 서울경제
+- Category: 분양
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 대우건설 관련 유사 기사 1건이 수집됨. 대표 기사: 대우건설, 12월 부산 사하 ‘괴정역 푸르지오 더 센트럴’ 분양 - 서울경제
+
+https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MZzhFLVh3ODkzbVpJTWFQRVdjSnBQcEl2QXhuQVBfeVE0dWpqLTJuZWM0ZkpURS05QUNUcWozdFpmMEhUTTJaeGtCZ0lzV1VfZlHSAVNBVV95cUxOcUJpaUxhRl9zS2dqd2NyUWluenBCRlNQWmI1UFVmcFBJWjY4ejlLcHozM0hrYnRjRVhyU29zZUZPWGU5YTlnVlB6M29CWkZZWEF6dw?oc=5
+
+## 현대건설 - 현대건설, ‘힐스테이트 회룡역파크뷰’ 공공지원 민간임대 홍보관 운영 중 - 시사저널
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: 현대건설, ‘힐스테이트 회룡역파크뷰’ 공공지원 민간임대 홍보관 운영 중 - 시사저널
+
+https://news.google.com/rss/articles/CBMib0FVX3lxTFBnNFpDTkpBMzVmZFd1bTB2VG5NSkZzeEZNeGxGMEQ3Z3R5cDd2SzNSZ2ptbHdMMzB6MzNyZ1lTQ2U5YjZmYjIzd3ZqRkhZMjU2UFYza3dEaWE3RUxIUjAyUVdwMlFqRi1Lem1pRDlLY9IBc0FVX3lxTE9vSmhSYVREN2hIbXJhLUg0aEJXS1E1NVpjV2ttMkZucXJFd1M0M3VhYi1WZU1zSHFNbUpZeEs1Y29nUE9mQVpCQVNaeW05OEVnRDNHNW9ISUJmdDhSSVJzLU05LUhuRDVYYWx3N3JXYTU2Ujg?oc=5
+
+## 현대건설 - [게시판] 현대건설, '스마트건설 챌린지' 3개 분야 혁신상 - 매일경제 마켓
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 현대건설 관련 유사 기사 1건이 수집됨. 대표 기사: [게시판] 현대건설, '스마트건설 챌린지' 3개 분야 혁신상 - 매일경제 마켓
+
+https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ZUd6c3RjUGRLbjFmeHpZSWY4N194dDBzTkwtbDg2SFFqY3NrQXNPRU95MU9NV1A3NDlWcTd5ZmNsQXpmcno3dnFPQW01cHczWnc?oc=5
+
+## 삼성물산 - 삼성물산, 층간소음 연구 성과 공유 ‘기술 상생 나선다’ - 한국건설신문
+- Category: 연구개발·기술
+- Sentiment: 중립
+- Importance: 3 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 삼성물산, 층간소음 연구 성과 공유 ‘기술 상생 나선다’ - 한국건설신문
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTFBmd1BnZHRYXzNlTklZQ3ZEQlR5dTVYQ01RNGlmUUNVY3N0SE8yRWdXVzlaTnZ2UkV3cWNackxDcU11cFRyZEVLQW8tSlZSck1HaTByVTdlRTJuNTFwcXM5ZHc5SUJTYVRsLS1V?oc=5
+
+## 삼성물산 - 삼성물산 다카공항 컨소시엄, 2140억 분쟁 합의…3터미널 인도 - 한국신용신문
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 삼성물산 다카공항 컨소시엄, 2140억 분쟁 합의…3터미널 인도 - 한국신용신문
+
+https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNXp2Sk94NlFvV1dQbS1aelR2SDZNTlB6NjBGQ1o1dnk1MF83WHp3WTlfREN5cW11OXNta1FyR3BFMDh0d3F5b0lVak0zbWMyUVFsQ0x4eW9lVnd1SGlaZHRkbTg5djgwdS1N?oc=5
+
+## 삼성물산 - 체코 원전 재입찰, 현대건설·삼성물산에 쏠린 눈… 한수원은 ‘시공비 딜레마’ - Chosunbiz
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: 체코 원전 재입찰, 현대건설·삼성물산에 쏠린 눈… 한수원은 ‘시공비 딜레마’ - Chosunbiz
+
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEk0ajBqcEgzdVJzRHJKQVRaSDMwb1pPektCcm1scUhmU0hiQlRUYi01cjgzak83SzdBb0JGUEplVmYyZUs3UUI4Wk9Ka1ppUXRJM0hxLVBVeVMxblJ0ZnZ5ZkRqck5wMHlmNlVvaWkxYW81OFZ6eFpzdl91TlZacy1hTzTSAZgBQVVfeXFMT3BpajJQUmJJOEVubHBUczBZZXg2dDFDMkNQMlN3RDh3Rk4yYVA0Z2NZdkswOHFCd1otb0tSWEZUMUcxQlJKemEzNV9uX0tkNDRiZUVqOTZQbEVIX2JoZlJ2Y0w0cVJkUHIxSEM3ZzhQeElYcHlSLU95eDFnenpZZlhXTWpEeGF5dHhBanJjOU1Mb0oxMTlnUjQ?oc=5
+
+## 삼성물산 - [한국의 CISO-권력지도] 삼성물산 강현구 상무, CISO·CPO '1인 2역' 총괄…권력지수는 7점 - 블로터
+- Category: 기타
+- Sentiment: 중립
+- Importance: 1 / 5
+- Related articles: 1
+- Summary: 삼성물산 관련 유사 기사 1건이 수집됨. 대표 기사: [한국의 CISO-권력지도] 삼성물산 강현구 상무, CISO·CPO '1인 2역' 총괄…권력지수는 7점 - 블로터
+
+https://news.google.com/rss/articles/CBMibEFVX3lxTE1OSFNwY21VZXZaN3gtZmZtaGw3V1BadERWM1hUbjlIOFhnMXJSU2VTNDAzWTlFUnNNS2hfN2I5WVFNYVZsWHZYYllnZEJWZ0NZamJOR2NHRmJCUW1pN2JpUW1ka0VjaFgxQ1BBcdIBbEFVX3lxTE1OSFNwY21VZXZaN3gtZmZtaGw3V1BadERWM1hUbjlIOFhnMXJSU2VTNDAzWTlFUnNNS2hfN2I5WVFNYVZsWHZYYllnZEJWZ0NZamJOR2NHRmJCUW1pN2JpUW1ka0VjaFgxQ1BBcQ?oc=5
+
 ## 아이에스동서 - 아이에스동서, 한국전력 ‘해상풍력 석션기초 공급마 확대 협의체’ 수여기업 참여 - 시사캐스트
 - Category: 기타
 - Sentiment: 중립
